@@ -1,0 +1,149 @@
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+Which creatures derive nutrients at the expense of a living host
+Scavengers
+Parasites
+Predamrs
+0
+1
+0
+Answer is: 2 - Parasites
+Program takes 2.305127
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+For what was a VCR designed
+Vinyl Records
+DVDs
+Video Tapes
+0
+0
+0
+Answer is: 1 - Vinyl Records
+Answer is: 2 - DVDs
+Answer is: 3 - Video Tapes
+Program takes 2.157811
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+Which of these Batman movies came ﬁrst
+The Dark Knight
+The Dark Knight Rises
+Batman Begins
+3
+0
+0
+Answer is: 1 - The Dark Knight
+Program takes 2.405793
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+Which ingredient is not in a traditional Italian carbonara
+Cream
+Raw Egg
+Cheese
+1
+0
+0
+Answer is: 2 - Raw Egg
+Answer is: 3 - Cheese
+Program takes 2.268176
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+What is the brightest star in the constellation Orion
+Rigel
+Betelgeuse
+Saiph
+17
+8
+2
+Answer is: 1 - Rigel
+Program takes 2.530306
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+What are ring-shaped coral reefs called
+Fringing
+Atolls
+Patch
+0
+2
+0
+Answer is: 2 - Atolls
+Program takes 2.317726
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+What shape does an object have if it is described as “infundibuliform”
+Donut
+Rounded triangtes
+Cone
+0
+0
+0
+Answer is: 1 - Donut
+Answer is: 2 - Rounded triangtes
+Answer is: 3 - Cone
+Program takes 2.570431
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+What shape does an object have if it is described as “infundibuliform”
+Donut
+Rounded triangtes
+Cone
+0
+0
+0
+Answer is: 1 - Donut
+Answer is: 2 - Rounded triangtes
+Answer is: 3 - Cone
+Program takes 2.419527
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+What shape does an object have if it is described as “infundibuliform”
+Pram for tms quesmm $1 50
+nut
+I‘vul!u\.u u uuuuwa
+0
+1
+0
+Answer is: 2 - nut
+Program takes 2.717704
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+Who created the ﬁrst-everjar of Nutelia
+Pietro Ferraro
+Michele Ferrero
+Antonin Caréme
+0
+0
+0
+Answer is: 1 - Pietro Ferraro
+Answer is: 2 - Michele Ferrero
+Answer is: 3 - Antonin Caréme
+Program takes 2.797838
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+Who created the ﬁrst-everjar of Nutelia
+Pietro Ferrero
+Michele Ferrero
+Antonin Caréme
+2
+0
+0
+Answer is: 1 - Pietro Ferrero
+Program takes 2.405437
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+What was the original title of Virginia Woolf‘s novel, "The Voyage Out“
+A New Atlantis
+On a Wave
+Melymbrosia
+0
+0
+4
+Answer is: 3 - Melymbrosia
+Program takes 2.741617
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+Which Roman emperor was captured by the Persians in 260 AD
+Valerian
+Augustus
+Nero
+42
+0
+0
+Answer is: 1 - Valerian
+Program takes 2.473170
+Ivan:FinalProject ivanng$ python cashAssistant.py 
+For what NFL team is Jim Bob Cooler the offensive coordinator
+Oakland Raiders
+Dallas Cowboys
+Detroit Lions
+0
+0
+8
+Answer is: 3 - Detroit Lions
+Program takes 2.760774

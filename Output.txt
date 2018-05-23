@@ -1,0 +1,808 @@
+===== lancement 2018-05-23 02:02:52.473000 ====
+Which sport is played by athletes wearing skates
+football
+
+tennis
+
+===== fin de l'ocr 2018-05-23 02:02:54.720000 ====
+0
+3906
+0
+La reponse est : 2 - 2018-05-23 02:02:57.299000 ====
+
+===== fermeture 2018-05-23 02:02:57.299000 ====
+
+
+===== lancement 2018-05-23 02:03:31.265000 ====
+What is the name of the sound made when lightning strikes
+squantle
+zizzam
+thunder
+
+===== fin de l'ocr 2018-05-23 02:03:33.698000 ====
+0
+0
+70
+La reponse est : 3 - 2018-05-23 02:03:36.327000 ====
+
+===== fermeture 2018-05-23 02:03:36.327000 ====
+
+
+===== lancement 2018-05-23 02:04:15.933000 ====
+Which of the following terms is another name for a movie theatre
+observatory
+gazebo
+cinema
+
+===== fin de l'ocr 2018-05-23 02:04:18.268000 ====
+0
+0
+44
+La reponse est : 3 - 2018-05-23 02:04:20.531000 ====
+
+===== fermeture 2018-05-23 02:04:20.531000 ====
+
+
+===== lancement 2018-05-23 02:04:58.909000 ====
+Which popular children's game is named after birds and involves running in a circle, tapping players' heads
+duck duck goose
+angry bird
+tornado bird
+
+===== fin de l'ocr 2018-05-23 02:05:01.587000 ====
+0
+7
+3
+La reponse est : 2 - 2018-05-23 02:05:03.860000 ====
+
+===== fermeture 2018-05-23 02:05:03.860000 ====
+
+
+===== lancement 2018-05-23 02:05:40.346000 ====
+What is a name for both numbers and fingers
+digits
+numerals
+twenties
+
+===== fin de l'ocr 2018-05-23 02:05:42.663000 ====
+6
+0
+0
+La reponse est : 1 - 2018-05-23 02:05:44.593000 ====
+
+===== fermeture 2018-05-23 02:05:44.593000 ====
+
+
+===== lancement 2018-05-23 02:06:45.734000 ====
+
+
+
+
+
+===== fin de l'ocr 2018-05-23 02:06:47.732000 ====
+251
+251
+251
+La reponse est : 1 - 2018-05-23 02:06:49.355000 ====
+
+La reponse est : 2 - 2018-05-23 02:06:49.356000 ====
+
+La reponse est : 3 - 2018-05-23 02:06:49.357000 ====
+
+===== fermeture 2018-05-23 02:06:49.357000 ====
+
+
+===== lancement 2018-05-23 02:08:22.570000 ====
+What was the name of the first electric toothbrush
+ultrasonex
+broxodent
+general electric
+
+===== fin de l'ocr 2018-05-23 02:08:25.011000 ====
+2
+10
+28
+La reponse est : 3 - 2018-05-23 02:08:26.913000 ====
+
+===== fermeture 2018-05-23 02:08:26.913000 ====
+
+
+===== lancement 2018-05-23 02:09:15.575000 ====
+Aside from the US dollar, what currency is currently the official Panamanian currency
+balboa
+peso
+real
+
+===== fin de l'ocr 2018-05-23 02:09:18.267000 ====
+24
+0
+4
+La reponse est : 1 - 2018-05-23 02:09:20.129000 ====
+
+===== fermeture 2018-05-23 02:09:20.129000 ====
+
+
+===== lancement 2018-05-23 02:10:03.623000 ====
+Computer monitors were previously referred to by what acronym
+vou
+mtr
+tdc
+
+===== fin de l'ocr 2018-05-23 02:10:06.161000 ====
+0
+4
+0
+La reponse est : 2 - 2018-05-23 02:10:08.080000 ====
+
+===== fermeture 2018-05-23 02:10:08.080000 ====
+
+
+===== lancement 2018-05-23 02:10:54.806000 ====
+Who holds the record for having written the most episodes of 'The Simpsons'
+matt selman
+john swartzwelder
+lan maxtonegraham
+
+===== fin de l'ocr 2018-05-23 02:10:57.747000 ====
+4
+2
+2
+La reponse est : 1 - 2018-05-23 02:10:59.715000 ====
+
+===== fermeture 2018-05-23 02:10:59.715000 ====
+
+
+===== lancement 2018-05-23 02:12:20.928000 ====
+Blondie's hit 'Hanging on the Telephone! was originally performed by which power-pop band
+the nerves
+big star
+squeeze
+
+===== fin de l'ocr 2018-05-23 02:12:23.548000 ====
+21
+0
+0
+La reponse est : 1 - 2018-05-23 02:12:25.459000 ====
+
+===== fermeture 2018-05-23 02:12:25.459000 ====
+
+
+===== lancement 2018-05-23 03:22:51.620000 ====
+How many seconds are there in 2 minutes
+90
+120
+180
+
+===== fin de l'ocr 2018-05-23 03:22:53.850000 ====
+2
+8
+0
+La reponse est : 2 - 2018-05-23 03:22:56.083000 ====
+
+===== fermeture 2018-05-23 03:22:56.083000 ====
+
+
+===== lancement 2018-05-23 03:23:02.590000 ====
+
+
+
+
+
+===== fin de l'ocr 2018-05-23 03:23:04.567000 ====
+251
+251
+251
+La reponse est : 1 - 2018-05-23 03:23:05.964000 ====
+
+La reponse est : 2 - 2018-05-23 03:23:05.964000 ====
+
+La reponse est : 3 - 2018-05-23 03:23:05.965000 ====
+
+===== fermeture 2018-05-23 03:23:05.965000 ====
+
+
+===== lancement 2018-05-23 03:23:27.939000 ====
+Where was notorious bushranger Ned Kelly finally
+geelong
+ipswich
+glenrowan
+
+===== fin de l'ocr 2018-05-23 03:23:30.208000 ====
+0
+0
+2
+La reponse est : 3 - 2018-05-23 03:23:31.959000 ====
+
+===== fermeture 2018-05-23 03:23:31.959000 ====
+
+
+===== lancement 2018-05-23 03:23:49.510000 ====
+Who was not a member of the boy-band One Direction
+matt corby
+liam payne
+harry styles
+
+===== fin de l'ocr 2018-05-23 03:23:51.855000 ====
+0
+5
+7
+La reponse est : 1 - 2018-05-23 03:23:53.762000 ====
+
+
+===== lancement 2018-05-23 03:24:26.052000 ====
+Which of these major Australian wine- growing regions is in New South Wales
+barossa valley
+margaret river
+hunter valley
+
+===== fin de l'ocr 2018-05-23 03:24:28.459000 ====
+1
+6
+3
+La reponse est : 2 - 2018-05-23 03:24:30.527000 ====
+
+===== fermeture 2018-05-23 03:24:30.527000 ====
+
+
+===== lancement 2018-05-23 03:32:29.633000 ====
+
+
+
+
+
+===== fin de l'ocr 2018-05-23 03:32:31.611000 ====
+251
+251
+251
+La reponse est : 1 - 2018-05-23 03:32:33.108000 ====
+
+La reponse est : 2 - 2018-05-23 03:32:33.108000 ====
+
+La reponse est : 3 - 2018-05-23 03:32:33.108000 ====
+
+===== fermeture 2018-05-23 03:32:33.108000 ====
+
+
+===== lancement 2018-05-23 03:32:44.439000 ====
+What reference book contains a collection of words and their definitions in a given language
+dictionary
+pictionary
+treasure map
+
+===== fin de l'ocr 2018-05-23 03:32:47.062000 ====
+24
+0
+2
+La reponse est : 1 - 2018-05-23 03:32:49.122000 ====
+
+===== fermeture 2018-05-23 03:32:49.122000 ====
+
+
+===== lancement 2018-05-23 03:33:24.669000 ====
+Which of these countries' flag is NOT red, white and blue
+france
+usa
+italy
+
+===== fin de l'ocr 2018-05-23 03:33:26.912000 ====
+2
+0
+0
+La reponse est : 2 - 2018-05-23 03:33:28.598000 ====
+
+La reponse est : 3 - 2018-05-23 03:33:28.598000 ====
+
+
+===== lancement 2018-05-23 03:34:02.388000 ====
+What is another word for appetizer
+entree
+hors doeuvre
+dessert
+
+===== fin de l'ocr 2018-05-23 03:34:04.627000 ====
+0
+16
+0
+La reponse est : 2 - 2018-05-23 03:34:06.384000 ====
+
+===== fermeture 2018-05-23 03:34:06.384000 ====
+
+
+===== lancement 2018-05-23 03:34:47.180000 ====
+If it is 12:43pm, how many minutes are there till 1pm
+17 minutes
+27 minutes
+13 minutes
+
+===== fin de l'ocr 2018-05-23 03:34:49.733000 ====
+14
+12
+13
+La reponse est : 1 - 2018-05-23 03:34:51.502000 ====
+
+===== fermeture 2018-05-23 03:34:51.502000 ====
+
+
+===== lancement 2018-05-23 03:35:25.241000 ====
+People born on December 31 are members of which zodiac sign
+leo
+capricom
+taurus
+
+===== fin de l'ocr 2018-05-23 03:35:27.526000 ====
+0
+0
+0
+La reponse est : 1 - 2018-05-23 03:35:29.419000 ====
+
+La reponse est : 2 - 2018-05-23 03:35:29.419000 ====
+
+La reponse est : 3 - 2018-05-23 03:35:29.419000 ====
+
+===== fermeture 2018-05-23 03:35:29.419000 ====
+
+
+===== lancement 2018-05-23 03:36:10.860000 ====
+
+
+_i  2 i_  hhl
+
+
+===== fin de l'ocr 2018-05-23 03:36:13.201000 ====
+251
+1
+251
+La reponse est : 1 - 2018-05-23 03:36:14.608000 ====
+
+La reponse est : 3 - 2018-05-23 03:36:14.608000 ====
+
+===== fermeture 2018-05-23 03:36:14.608000 ====
+
+
+===== lancement 2018-05-23 03:36:43.768000 ====
+What inning of a baseball game is nicknamed the stretch
+5th
+7th
+8th
+
+===== fin de l'ocr 2018-05-23 03:36:46.284000 ====
+0
+6
+0
+La reponse est : 2 - 2018-05-23 03:36:47.954000 ====
+
+===== fermeture 2018-05-23 03:36:47.954000 ====
+
+
+===== lancement 2018-05-23 03:37:24.702000 ====
+What is the direct translation of the German word "dachshund"
+badger dog
+sausage dog
+stump dog
+
+===== fin de l'ocr 2018-05-23 03:37:27.324000 ====
+9
+4
+3
+La reponse est : 1 - 2018-05-23 03:37:29.013000 ====
+
+===== fermeture 2018-05-23 03:37:29.013000 ====
+
+
+===== lancement 2018-05-23 03:38:37.382000 ====
+To which family of plants does broccoli belong
+fabaceae
+solanaceae
+brassicaceae
+
+===== fin de l'ocr 2018-05-23 03:38:39.837000 ====
+0
+0
+20
+La reponse est : 3 - 2018-05-23 03:38:41.636000 ====
+
+===== fermeture 2018-05-23 03:38:41.636000 ====
+
+
+===== lancement 2018-05-23 03:39:16.718000 ====
+Which character in Catch-22 causes Yossarian to go up a tree
+milo
+snowden
+nately
+
+===== fin de l'ocr 2018-05-23 03:39:19.249000 ====
+10
+6
+2
+La reponse est : 1 - 2018-05-23 03:39:20.944000 ====
+
+===== fermeture 2018-05-23 03:39:20.944000 ====
+
+
+===== lancement 2018-05-23 03:40:26.313000 ====
+Who developed the first set of headphones in 19102  Biss or ths PS200
+john c koss
+alexander graham bell
+nathaniel baldwin
+
+===== fin de l'ocr 2018-05-23 03:40:28.993000 ====
+114
+0
+0
+La reponse est : 1 - 2018-05-23 03:40:30.923000 ====
+
+===== fermeture 2018-05-23 03:40:30.923000 ====
+
+
+===== lancement 2018-05-23 03:41:18.678000 ====
+What do you mix with Hennessy to make an "Incredible Hulk
+hpnotiq
+vinig
+nuvo
+
+===== fin de l'ocr 2018-05-23 03:41:21.148000 ====
+20
+0
+0
+La reponse est : 1 - 2018-05-23 03:41:22.982000 ====
+
+===== fermeture 2018-05-23 03:41:22.982000 ====
+
+
+===== lancement 2018-05-23 03:42:55.408000 ====
+From which country did the animated TV series 'The Three Friends and Jerry' originate
+canada
+france
+sweden
+
+===== fin de l'ocr 2018-05-23 03:42:57.966000 ====
+0
+0
+2
+La reponse est : 3 - 2018-05-23 03:42:59.986000 ====
+
+===== fermeture 2018-05-23 03:42:59.986000 ====
+
+
+===== lancement 2018-05-23 04:02:54.822000 ====
+
+
+
+
+
+===== fin de l'ocr 2018-05-23 04:02:56.811000 ====
+251
+251
+251
+La reponse est : 1 - 2018-05-23 04:02:58.311000 ====
+
+La reponse est : 2 - 2018-05-23 04:02:58.311000 ====
+
+La reponse est : 3 - 2018-05-23 04:02:58.311000 ====
+
+===== fermeture 2018-05-23 04:02:58.311000 ====
+
+
+===== lancement 2018-05-23 04:04:02.700000 ====
+Which Shakespeare character asks 'What light through yonder window breaks
+hamlet
+romeo
+othello
+
+===== fin de l'ocr 2018-05-23 04:04:05.078000 ====
+0
+38
+0
+La reponse est : 2 - 2018-05-23 04:04:06.890000 ====
+
+===== fermeture 2018-05-23 04:04:06.890000 ====
+
+
+===== lancement 2018-05-23 04:05:07.529000 ====
+Which Australian bird has the ability to mimic natural sounds from its environment
+emu
+kookaburra
+lyrebird
+
+===== fin de l'ocr 2018-05-23 04:05:09.968000 ====
+0
+0
+46
+La reponse est : 3 - 2018-05-23 04:05:11.696000 ====
+
+===== fermeture 2018-05-23 04:05:11.696000 ====
+
+
+===== lancement 2018-05-23 04:06:16.451000 ====
+What is both a chemical element and Superman's home planet
+methane
+hydrogen
+krypton
+
+===== fin de l'ocr 2018-05-23 04:06:18.760000 ====
+0
+0
+58
+La reponse est : 3 - 2018-05-23 04:06:21.057000 ====
+
+===== fermeture 2018-05-23 04:06:21.057000 ====
+
+
+===== lancement 2018-05-23 04:07:27.065000 ====
+Who is the 2nd youngest Canadian Prime Minister ever
+wilfrid laurier
+joe clark
+justin trudeau
+
+===== fin de l'ocr 2018-05-23 04:07:29.527000 ====
+0
+9
+38
+La reponse est : 3 - 2018-05-23 04:07:31.649000 ====
+
+===== fermeture 2018-05-23 04:07:31.649000 ====
+
+
+===== lancement 2018-05-23 04:08:33.217000 ====
+Aussie NRL player Jarryd Hayne has played for which US NFL team
+san francisco 49ers
+new england patriots
+chicago bears
+
+===== fin de l'ocr 2018-05-23 04:08:35.912000 ====
+25
+5
+0
+La reponse est : 1 - 2018-05-23 04:08:37.751000 ====
+
+===== fermeture 2018-05-23 04:08:37.751000 ====
+
+
+===== lancement 2018-05-23 04:09:39.251000 ====
+
+
+
+
+
+===== fin de l'ocr 2018-05-23 04:09:41.232000 ====
+251
+251
+251
+La reponse est : 1 - 2018-05-23 04:09:42.672000 ====
+
+La reponse est : 2 - 2018-05-23 04:09:42.673000 ====
+
+La reponse est : 3 - 2018-05-23 04:09:42.674000 ====
+
+===== fermeture 2018-05-23 04:09:42.674000 ====
+
+
+===== lancement 2018-05-23 04:09:47.043000 ====
+What was the name of the well-known Australian horse-drawn carriage firm in the 1800s
+wells fargo
+cobb  co
+brinks
+
+===== fin de l'ocr 2018-05-23 04:09:49.626000 ====
+0
+59
+0
+La reponse est : 2 - 2018-05-23 04:09:51.406000 ====
+
+===== fermeture 2018-05-23 04:09:51.406000 ====
+
+
+===== lancement 2018-05-23 04:11:02.716000 ====
+The classic movie "My Fair Lady(r) is based on which famous play
+west side story
+pygmalion
+romeo and juliet
+
+===== fin de l'ocr 2018-05-23 04:11:05.268000 ====
+2
+14
+0
+La reponse est : 2 - 2018-05-23 04:11:07.203000 ====
+
+===== fermeture 2018-05-23 04:11:07.204000 ====
+
+
+===== lancement 2018-05-23 04:11:56.442000 ====
+Which of these bands did not include at least two siblings
+bee gees
+doobie brothers
+hanson
+
+===== fin de l'ocr 2018-05-23 04:11:58.916000 ====
+1
+10
+0
+La reponse est : 3 - 2018-05-23 04:12:00.730000 ====
+
+
+===== lancement 2018-05-23 04:13:21.304000 ====
+Which city was home to the tallest building in the world between 1998 and 2004
+hong kong
+dubai
+kuala lumpur
+
+===== fin de l'ocr 2018-05-23 04:13:23.830000 ====
+0
+8
+9
+La reponse est : 3 - 2018-05-23 04:13:25.872000 ====
+
+===== fermeture 2018-05-23 04:13:25.872000 ====
+
+
+===== lancement 2018-05-23 04:14:35.414000 ====
+What was the first Irish nationalist party to form in the 20th century
+fianna fail
+sinn fein
+fine gael
+
+===== fin de l'ocr 2018-05-23 04:14:37.910000 ====
+0
+2
+0
+La reponse est : 2 - 2018-05-23 04:14:39.933000 ====
+
+===== fermeture 2018-05-23 04:14:39.933000 ====
+
+
+===== lancement 2018-05-23 04:15:55.483000 ====
+In the 2001 novel Billy Elliot, what did the titular character dream of being
+a footballer
+a dancer
+a fireman
+
+===== fin de l'ocr 2018-05-23 04:15:58.065000 ====
+0
+0
+0
+La reponse est : 1 - 2018-05-23 04:15:59.984000 ====
+
+La reponse est : 2 - 2018-05-23 04:15:59.985000 ====
+
+La reponse est : 3 - 2018-05-23 04:15:59.986000 ====
+
+===== fermeture 2018-05-23 04:15:59.986000 ====
+
+
+===== lancement 2018-05-23 10:02:28.844000 ====
+aga . A>  -\ <<omar %
+
+
+
+
+===== fin de l'ocr 2018-05-23 10:02:31.468000 ====
+1687
+1687
+1687
+La reponse est : 1 - 2018-05-23 10:02:33.644000 ====
+
+La reponse est : 2 - 2018-05-23 10:02:33.644000 ====
+
+La reponse est : 3 - 2018-05-23 10:02:33.644000 ====
+
+===== fermeture 2018-05-23 10:02:33.644000 ====
+
+
+===== lancement 2018-05-23 10:02:49.423000 ====
+Which band was Robbie Williams a member of
+take that
+westlife
+boyzone
+
+===== fin de l'ocr 2018-05-23 10:02:51.694000 ====
+40
+0
+0
+La reponse est : 1 - 2018-05-23 10:02:53.891000 ====
+
+===== fermeture 2018-05-23 10:02:53.891000 ====
+
+
+===== lancement 2018-05-23 10:03:09.843000 ====
+How many lives is a cat said to have
+
+10
+11
+
+===== fin de l'ocr 2018-05-23 10:03:11.962000 ====
+3664
+8
+0
+La reponse est : 1 - 2018-05-23 10:03:13.996000 ====
+
+===== fermeture 2018-05-23 10:03:13.996000 ====
+
+
+===== lancement 2018-05-23 10:03:30.293000 ====
+Which artist has released alb
+adele
+lady gaga
+taylor swift
+
+===== fin de l'ocr 2018-05-23 10:03:32.570000 ====
+0
+0
+0
+La reponse est : 1 - 2018-05-23 10:03:34.641000 ====
+
+La reponse est : 2 - 2018-05-23 10:03:34.641000 ====
+
+La reponse est : 3 - 2018-05-23 10:03:34.642000 ====
+
+===== fermeture 2018-05-23 10:03:34.642000 ====
+
+
+===== lancement 2018-05-23 10:03:54.381000 ====
+Which artist has released albums called 19, 21 and 25
+adele
+lady gaga
+taylor swift
+
+===== fin de l'ocr 2018-05-23 10:03:56.666000 ====
+56
+0
+0
+La reponse est : 1 - 2018-05-23 10:03:58.793000 ====
+
+===== fermeture 2018-05-23 10:03:58.793000 ====
+
+
+===== lancement 2018-05-23 10:04:14.945000 ====
+Who wrote the Discworld books
+stephen king
+ursula le guin
+terry pratchett
+
+===== fin de l'ocr 2018-05-23 10:04:17.187000 ====
+1
+16
+92
+La reponse est : 3 - 2018-05-23 10:04:19.588000 ====
+
+===== fermeture 2018-05-23 10:04:19.589000 ====
+
+
+===== lancement 2018-05-23 10:04:36.125000 ====
+Which of these are toxic
+green potatoes
+blackened bananas
+yellowing broccoli
+
+===== fin de l'ocr 2018-05-23 10:04:38.436000 ====
+0
+0
+0
+La reponse est : 1 - 2018-05-23 10:04:40.455000 ====
+
+La reponse est : 2 - 2018-05-23 10:04:40.455000 ====
+
+La reponse est : 3 - 2018-05-23 10:04:40.456000 ====
+
+===== fermeture 2018-05-23 10:04:40.456000 ====
+
+
+===== lancement 2018-05-23 11:37:12.593000 ====
+
+
+d umount o
+
+
+
+===== fin de l'ocr 2018-05-23 11:37:15.302000 ====
+251
+0
+251
+251
+La reponse est : 1 - 2018-05-23 11:37:17.536000 ====
+
+La reponse est : 3 - 2018-05-23 11:37:17.537000 ====
+
+La reponse est : 4 - 2018-05-23 11:37:17.538000 ====
+
+===== fermeture 2018-05-23 11:37:17.538000 ====
+
