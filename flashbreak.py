@@ -1,28 +1,48 @@
+#import sys
 import pyscreenshot as ImageGrab
 import pytesseract
 import webbrowser
 import random
 import re
 import string
+import mss
+import mss.tools
 from unidecode import unidecode
 from HTMLParser import HTMLParser
 from PIL import Image, ImageEnhance, ImageFilter
-from time import sleep, time
+from time import sleep, time, strftime
 from requests import get
 from bs4 import BeautifulSoup as Soup
 from nltk.corpus import stopwords
+from datetime import datetime
 
-def run_cash_show_assistant():
-	#if __name__ == '__main__':
-	csQuestion = ImageGrab.grab(bbox=(45,326, 411, 482))
-	csAnswer1 = ImageGrab.grab(bbox=(71,508,384,547))
-	csAnswer2 = ImageGrab.grab(bbox=(74,576,385,618))
-	csAnswer3 = ImageGrab.grab(bbox=(72,644,387,686))
-	csAnswer4 = ImageGrab.grab(bbox=(72,644,387,686))
-	#csQuestion.show()	
+def run_flashbreak_assistant():
 
-	# load the example image and pre-process to reduce noise
-	# and increase contrast
+        #Fonction de grab V2
+	def grab_part(left, top, right, bottom):
+		width = right - left
+		height = bottom - top
+		with mss.mss() as sct:
+			# The screen part to capture
+			monitor = {'top': top, 'left': left, 'width': width, 'height': height}
+			#output = 'sct-{top}x{left}_{width}x{height}.png'.format(**monitor)
+			# Grab the data
+			sct_img = sct.grab(monitor)
+			# Save to the picture file
+			#mss.tools.to_png(sct_img.rgb, sct_img.size, output=output)
+			#print(output)
+			# Create an Image
+			img = Image.new('RGB', sct_img.size)
+			#Best solution: create a list(tuple(R, G, B), ...) for putdata()
+			pixels = zip(sct_img.raw[2::4],
+						 sct_img.raw[1::4],
+						 sct_img.raw[0::4])
+			img.putdata(list(pixels))
+			#img.show()
+			return img
+
+
+	
 	def pre_process_image(img):
 		#img = img.filter(ImageFilter.MedianFilter())
 		#enhancer = ImageEnhance.Contrast(img)
@@ -34,6 +54,7 @@ def run_cash_show_assistant():
 	def convert_image_to_text(img):
 		img.save('temp.bmp')
 		text = pytesseract.image_to_string(Image.open('temp.bmp'))
+		#text = pytesseract.image_to_string(Image.open('temp.png')).encode('utf8')
 		text = text.replace("\n", " ")
 		return text
 
@@ -84,7 +105,33 @@ def run_cash_show_assistant():
 		for word in answer_arr:
 			counter = counter + html_str.count(word)
 		return counter
+
 		
+		
+	"""reload(sys)
+	sys.setdefaultencoding("UTF-8")"""
+    
+	#Ouverture du fichier de log
+	f_debug = 1
+	if f_debug == 1:
+		text_file = open("Output.txt", "a")
+		text_file.write("\n===== lancement "+str(datetime.now())+" ====\n")      #log
+
+
+#Screenshots
+	if f_debug == 1:
+		text_file.write("===== debut grab V2 "+str(datetime.now())+" ====\n")      #log
+	csQuestion = grab_part(34,327, 426, 420)
+	csAnswer1 = grab_part(55,457,210,530)
+	csAnswer2 = grab_part(250,450,410,530)
+	csAnswer3 = grab_part(54,580,210,650)
+	csAnswer4 = grab_part(250,575,410,650)
+
+	if f_debug == 1:
+		text_file.write("===== fin grab V2 "+str(datetime.now())+" ====\n")      #log
+
+
+			
 	csQuestion = pre_process_image(csQuestion)
 	question = convert_image_to_text(csQuestion)
 	question = unidecode(question.split("?", 1)[0])
@@ -103,10 +150,20 @@ def run_cash_show_assistant():
 	answer3 = re.sub(r'[^\w\s]', '',answer3)
 	answer4 = re.sub(r'[^\w\s]', '',answer4)
 
-	print(answer1)
-	print(answer2)
-	print(answer3)
-	print(answer4)
+	print("Q : "+question)
+	print("R1: "+answer1)
+	print("R2: "+answer2)
+	print("R3: "+answer3)
+	print("R4: "+answer4)
+                
+
+	if f_debug == 1:
+		text_file.write(question+"\n")  #log
+		text_file.write(answer1+"\n")   #log
+		text_file.write(answer2+"\n")   #log
+		text_file.write(answer3+"\n")   #log
+		text_file.write(answer4+"\n")   #log
+		text_file.write("\n===== fin de l'ocr "+str(datetime.now())+" ====\n")      #log
 
 	# -------------- Testing -----------------
 
@@ -137,44 +194,69 @@ def run_cash_show_assistant():
 	count3 = count3 + hash_count(html, answer3)
 	count4 = count4 + hash_count(html, answer4)
 
-	# Write to file to see HTML
-	#text_file = open("Output.txt", "w")
-	#text_file.write(html)
-	#text_file.close()
+	# Write to logfile to see HTML
+	#if f_debug == 1:
+		#text_file.write(html+"\n")
 
-	"""if count1 == 0 and count2 == 0 and count3 == 0 and count4 == 0:
+	"""if count1 == 0 and count2 == 0 and count3 == 0:
 		print(" --------------------- ")
 		print("RE-ATTEMPTING")
 		count1 = hash_count(html, answer1)
 		count2 = hash_count(html, answer2)
-		count3 = hash_count(html, answer3)
-		count4 = hash_count(html, answer4)"""
+		count3 = hash_count(html, answer3)"""
 
 	print(count1)
 	print(count2)
 	print(count3)
 	print(count4)
 
+	if f_debug == 1:
+		text_file.write(str(count1)+"\n")   #log
+		text_file.write(str(count2)+"\n")   #log
+		text_file.write(str(count3)+"\n")   #log
+		text_file.write(str(count4)+"\n")   #log
+
+	
 	if question.find("+not+") != -1 or question.find("+NOT+") != -1:
-		minCount = min(count1, count2, count3 , count4)
+		minCount = min(count1, count2, count3, count4)
 		if minCount == count1:
-			print("Answer is: 1 - " + answer1)
+			print("La reponse est : 1 - " + answer1)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer1+" ====\n\n")        #log
 		if minCount == count2:
-			print("Answer is: 2 - " + answer2)
+			print("La reponse est : 2 - " + answer2)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer2+" ====\n\n")        #log
 		if minCount == count3:
-			print("Answer is: 3 - " + answer3)
+			print("La reponse est : 3 - " + answer3)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer3+" ====\n\n")        #log
 		if minCount == count4:
-			print("Answer is: 3 - " + answer4)	
+			print("La reponse est : 4 - " + answer4)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer4+" ====\n\n")        #log
 	else:
 		maxCount = max(count1, count2, count3, count4)
 		if maxCount == count1:
-			print("Answer is: 1 - " + answer1)
+			print("La reponse est : 1 - " + answer1)
+                        if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer1+" ====\n\n")        #log
 		if maxCount == count2:
-			print("Answer is: 2 - " + answer2)
+			print("La reponse est : 2 - " + answer2)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer2+" ====\n\n")        #log
 		if maxCount == count3:
-			print("Answer is: 3 - " + answer3)
+			print("La reponse est : 3 - " + answer3)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer3+" ====\n\n")        #log
 		if maxCount == count4:
-			print("Answer is: 3 - " + answer4)	
+			print("La reponse est : 4 - " + answer4)
+			if f_debug == 1:
+                                text_file.write("La reponse est : 1 - "+answer4+" ====\n\n")        #log
 
+                if f_debug == 1:
+                        text_file.write("===== fermeture "+str(datetime.now())+" ====\n\n")      #log
+        		text_file.close()
+			
 if __name__ == '__main__':
-	run_cash_show_assistant()
+	run_flashbreak_assistant()
