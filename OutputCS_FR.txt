@@ -1,0 +1,837 @@
+
+==== lancement 2018-06-08 11:12:47.404000 ====
+Q : cool _working>cashfissistant.py en Cours : Cash Show Francais
+R1: 
+R2: 
+R3: 
+Score pour R1 : 2832 dont 2832 rep EXACTE(S) trouvee(s)
+Score pour R2 : 2832 dont 2832 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2832 dont 2832 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-08 11:12:52.565000 ====
+
+==== lancement 2018-06-08 11:12:57.096000 ====
+Q : Qui a conclu un pacte avec Mephistopheles
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 77 dont 49 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 11:13:01.337000 ====
+
+==== lancement 2018-06-08 12:15:12.179000 ====
+Q : Qui a conclu un pacte avec Mephistopheles
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 77 dont 49 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 12:15:17.072000 ====
+
+==== lancement 2018-06-08 12:15:44.059000 ====
+Q : Qui a conclu un pacte avec Mephistopheles
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 77 dont 49 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 12:15:48.390000 ====
+
+==== lancement 2018-06-08 12:16:04.897000 ====
+Q : A quelle date a lieu chaque annee la Fete de la musique 
+R1: le 21 juin
+R2: le 14 juillet
+R3: le 15 aout
+Score pour R1 : 59 dont 11 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1
+Score pour R3 : 1
+La reponse est : 1 - le 21 juin
+===== fermeture 2018-06-08 12:16:10.078000 ====
+
+==== lancement 2018-06-08 12:16:59.311000 ====
+Q : "a sy a i  7 Fun Er QUIZ EU e at se 7  D. a ll "0 3 ln ig =  7 Ly Pa \ Fy 7 A Dr << - es pete se ) AO SO :.IOr
+R1:    be   aac boy   ee PS a   e
+R2: at pur con ti ee   s 2    oe res ee
+R3: sn de pr a sl  a te cr a
+Score pour R1 : 10
+Score pour R2 : 34
+Score pour R3 : 17
+La reponse est : 1 -    be   aac boy   ee PS a   e
+La reponse est : 2 - at pur con ti ee   s 2    oe res ee
+La reponse est : 3 - sn de pr a sl  a te cr a
+===== fermeture 2018-06-08 12:17:10.326000 ====
+
+==== lancement 2018-06-08 12:31:45.847000 ====
+Q : Un hydravion est un avion concu specialement pour decoller et se poser a la surface.
+R1: du sable
+R2: de la glace
+R3: oooo tt sestoooo de l eau
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - du sable
+La reponse est : 2 - de la glace
+La reponse est : 3 - oooo tt sestoooo de l eau
+===== fermeture 2018-06-08 12:31:52.228000 ====
+
+==== lancement 2018-06-08 12:32:35.606000 ====
+Q : Quel terme anglais designe la coiffure traditionnelle des rastafaris 
+R1: shorthair
+R2: dreadlocks
+R3: lipshair
+Score pour R1 : 0
+Score pour R2 : 37 dont 26 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - dreadlocks
+===== fermeture 2018-06-08 12:32:40.390000 ====
+
+==== lancement 2018-06-08 12:33:29.130000 ====
+Q : Comment s'appelle la petite amie de Cedric dans la bande dessinee du meme nom 
+R1: chen
+R2: lois
+R3: nadia
+Score pour R1 : 15 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R2 : 14
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - chen
+===== fermeture 2018-06-08 12:33:33.856000 ====
+
+==== lancement 2018-06-08 12:34:11.909000 ====
+Q : Quelle etait la monnaie francaise avant l'euro 
+R1: l ecu
+R2: le franc
+R3: eeo oooo st eo0 la lire
+Score pour R1 : 0
+Score pour R2 : 68 dont 9 rep EXACTE(S) trouvee(s)
+Score pour R3 : 24
+La reponse est : 2 - le franc
+===== fermeture 2018-06-08 12:34:17.682000 ====
+
+==== lancement 2018-06-08 12:34:56.021000 ====
+Q : Quelle est la capitale actuelle du Maroc 
+R1: casablanca
+R2: fes
+R3: rabat
+Score pour R1 : 9 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 55 dont 32 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - rabat
+===== fermeture 2018-06-08 12:35:00.746000 ====
+
+==== lancement 2018-06-08 12:35:50.964000 ====
+Q : Quel personnage de comics est originaire de Paradise Island 
+R1: catwoman
+R2: wonder woman
+R3: a pandora
+Score pour R1 : 0
+Score pour R2 : 93 dont 36 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - wonder woman
+===== fermeture 2018-06-08 12:35:57.318000 ====
+
+==== lancement 2018-06-08 12:36:42.054000 ====
+Q : En 1869, quel peintre a realise la toile << La Grenouillere >> 
+R1: edouard manet
+R2: camille pissarro
+R3: auguste renoir
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 36 dont 5 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - auguste renoir
+===== fermeture 2018-06-08 12:36:47.032000 ====
+
+==== lancement 2018-06-08 12:37:27.911000 ====
+Q : Quel acteur joue un role principal dans le film << Gravity >> 
+R1: matt damon
+R2: george clooney
+R3: robert pattinson
+Score pour R1 : 3
+Score pour R2 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2
+La reponse est : 1 - matt damon
+La reponse est : 2 - george clooney
+===== fermeture 2018-06-08 12:37:32.563000 ====
+
+==== lancement 2018-06-08 12:38:22.383000 ====
+Q : A quel pays appartient le Groenland 
+R1: le royaume uni
+R2: la suede
+R3: le danemark
+Score pour R1 : 4
+Score pour R2 : 0
+Score pour R3 : 12
+La reponse est : 1 - le royaume uni
+La reponse est : 2 - la suede
+La reponse est : 3 - le danemark
+===== fermeture 2018-06-08 12:38:26.914000 ====
+
+==== lancement 2018-06-08 12:39:13.924000 ====
+Q : Qui fut assassine par Raoul Villain 
+R1: jean jaures
+R2: sadi carnot
+R3: ooo st eco ee paul doumer
+Score pour R1 : 30 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - jean jaures
+===== fermeture 2018-06-08 12:39:20.179000 ====
+
+==== lancement 2018-06-08 12:40:00.309000 ====
+Q : Combien de loges lunaires figurent dans l'astrologie chinoise 
+R1: 16
+R2: 28
+R3: 32
+Score pour R1 : 0
+Score pour R2 : 12 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - 28
+===== fermeture 2018-06-08 12:40:04.917000 ====
+
+==== lancement 2018-06-08 12:40:55.491000 ====
+Q : En 1897, quel compositeur russe a adapte pour l'opera le << Mozart et Salieri >> de Pouchkine 
+R1: borodine
+R2: rimski korsakov
+R3: moussorgski
+Score pour R1 : 0
+Score pour R2 : 6
+Score pour R3 : 0
+La reponse est : 1 - borodine
+La reponse est : 2 - rimski korsakov
+La reponse est : 3 - moussorgski
+===== fermeture 2018-06-08 12:41:00.768000 ====
+
+==== lancement 2018-06-09 12:21:43.622000 ====
+Q : | L nr DEEE) Neh 6 10,35EUR 10,35EUR 10,35EUR 10,
+R1: eee d
+R2: ae
+R3: fpermecszce d
+Score pour R1 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - eee d
+La reponse est : 2 - ae
+===== fermeture 2018-06-09 12:21:50.728000 ====
+
+==== lancement 2018-06-09 12:26:28.868000 ====
+Q : te { 2: .. "a |
+R1: lj  
+R2: connecte
+R3: 
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 6526 dont 6526 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-09 12:26:33.887000 ====
+
+==== lancement 2018-06-09 12:31:58.758000 ====
+Q : Quel fromage n'est pas originaire de Normandie 
+R1: le comte
+R2: le camembert
+R3: le pont l eveque
+Score pour R1 : 0
+Score pour R2 : 49 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - le comte
+La reponse est : 3 - le pont l eveque
+===== fermeture 2018-06-09 12:32:03.322000 ====
+
+==== lancement 2018-06-09 12:32:57.279000 ====
+Q : << MasterChef >> est une emission televisee de telerealite.. 
+R1: militaire
+R2: automobile
+R3: a culinaire
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 9
+La reponse est : 1 - militaire
+La reponse est : 2 - automobile
+La reponse est : 3 - a culinaire
+===== fermeture 2018-06-09 12:33:03.949000 ====
+
+==== lancement 2018-06-09 12:33:40.410000 ====
+Q : Quel est le personnage principal du theatre de marionnettes francais 
+R1: guignol
+R2: cadet
+R3: a  cassandre
+Score pour R1 : 46 dont 28 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - guignol
+===== fermeture 2018-06-09 12:33:47.648000 ====
+
+==== lancement 2018-06-09 12:34:21.188000 ====
+Q : Combien de doigts possede generalement une main humaine 
+R1: 4
+R2: 5
+R3: 8
+Score pour R1 : 14 dont 14 rep EXACTE(S) trouvee(s)
+Score pour R2 : 16 dont 14 rep EXACTE(S) trouvee(s)
+Score pour R3 : 17 dont 17 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 8
+===== fermeture 2018-06-09 12:34:25.355000 ====
+
+==== lancement 2018-06-09 12:35:09.468000 ====
+Q : Quelle est la vitesse maximale autorisee a proximite d'un hopital en ville 
+R1: 30 km h
+R2: 50 km h
+R3: 70 km h
+Score pour R1 : 19
+Score pour R2 : 19
+Score pour R3 : 18
+La reponse est : 1 - 30 km h
+La reponse est : 2 - 50 km h
+La reponse est : 3 - 70 km h
+===== fermeture 2018-06-09 12:35:15.370000 ====
+
+==== lancement 2018-06-09 12:35:57.111000 ====
+Q : Quel terme italien se refere a la Premiere Renaissance, apparue a Florence 
+R1: antichita
+R2: medioevo
+R3: quattrocento
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 22 dont 14 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - quattrocento
+===== fermeture 2018-06-09 12:36:01.927000 ====
+
+==== lancement 2018-06-09 12:36:46.456000 ====
+Q : Quel est le premier ready-made de Marcel Duchamp 
+R1: roue de bicyclette
+R2: peigne
+R3: porte bouteilles
+Score pour R1 : 27 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 2
+La reponse est : 1 - roue de bicyclette
+===== fermeture 2018-06-09 12:36:51.385000 ====
+
+==== lancement 2018-06-09 12:37:26.517000 ====
+Q : Quel arbre est represente sur le drapeau du Liban 
+R1: un cedre
+R2: un cypres
+R3: un olivier
+Score pour R1 : 1
+Score pour R2 : 0
+Score pour R3 : 3 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - un olivier
+===== fermeture 2018-06-09 12:37:31.153000 ====
+
+==== lancement 2018-06-09 12:38:08.394000 ====
+Q : Quel code telegraphique utilise un alphabet fait de traits et de points 
+R1: le braille
+R2: le morse
+R3: le chappe
+Score pour R1 : 0
+Score pour R2 : 56 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1
+La reponse est : 2 - le morse
+===== fermeture 2018-06-09 12:38:13.694000 ====
+
+==== lancement 2018-06-09 12:38:55.002000 ====
+Q : En sport hippique, quel terme anglais designe un cheval de course exceptionnel ou le poulain favori d'une ecurie 
+R1: un derby winner
+R2: un brook
+R3: un crack
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-09 12:39:00.648000 ====
+===== fermeture 2018-06-09 12:39:00.649000 ====
+
+==== lancement 2018-06-09 12:39:39.169000 ====
+Q : Quel musicien a compose un << Concerto pour la main gauche >> pour Paul Wittgenstein 
+R1: maurice ravel
+R2: claude debussy
+R3: serguei prokofiev
+Score pour R1 : 36 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 2
+La reponse est : 1 - maurice ravel
+===== fermeture 2018-06-09 12:39:44.159000 ====
+
+==== lancement 2018-06-09 12:40:47.102000 ====
+Q : Quel terme designe la partie blanche en forme de croissant, situee a la base de l'ongle 
+R1: lunule
+R2: hyponychium
+R3: gouttiere
+Score pour R1 : 91 dont 34 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - lunule
+===== fermeture 2018-06-09 12:40:51.772000 ====
+
+==== lancement 2018-06-10 20:19:30.334000 ====
+Q : D CRE. $ Stet DAT!
+R1: 
+R2: re  rce ro ei
+R3: race d slr rd   cele   ad
+Score pour R1 : 7927 dont 7927 rep EXACTE(S) trouvee(s)
+Score pour R2 : 23
+Score pour R3 : 0
+La reponse est : 1 - 
+===== fermeture 2018-06-10 20:19:36.563000 ====
+
+==== lancement 2018-06-10 20:32:01.693000 ====
+Q : Quel type de vin obtient-on avec un muscat blanc 
+R1: du blanc
+R2: du rouge
+R3:     degdeg degdeg  wai eee du rose
+Score pour R1 : 45
+Score pour R2 : 8
+Score pour R3 : 0
+La reponse est : 1 - du blanc
+La reponse est : 2 - du rouge
+La reponse est : 3 -     degdeg degdeg  wai eee du rose
+===== fermeture 2018-06-10 20:32:08.185000 ====
+
+==== lancement 2018-06-10 20:32:54.299000 ====
+Q : Quelle fleur a des petales blanches autour d'un centre jaune 
+R1: la rose
+R2: la marguerite
+R3: a liris
+Score pour R1 : 14 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 11 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - la rose
+La reponse est : 2 - la marguerite
+===== fermeture 2018-06-10 20:33:00.793000 ====
+
+==== lancement 2018-06-10 20:33:38.123000 ====
+Q : Lequel de ces chanteurs est un crooner 
+R1: frank sinatra
+R2: david guetta
+R3: orelsan
+Score pour R1 : 5 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - frank sinatra
+===== fermeture 2018-06-10 20:33:42.410000 ====
+
+==== lancement 2018-06-10 20:34:21.904000 ====
+Q : Quelle personnalite politique n'a jamais ete elue President de la Republique francaise 
+R1: emmanuel macron
+R2: jacques chirac
+R3: arlette laguiller
+Score pour R1 : 50 dont 18 rep EXACTE(S) trouvee(s)
+Score pour R2 : 5 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+NEGATION DETECTEE AVEC 'jamais' - A CONFIRMERLa reponse est : 3 - arlette laguiller
+===== fermeture 2018-06-10 20:34:26.848000 ====
+
+==== lancement 2018-06-10 20:35:01.808000 ====
+Q : Dans quel organe du corps humain trouve-t-on deux oreillettes et deux ventricules 
+R1: le rein
+R2: le coeur
+R3: la rate
+Score pour R1 : 0
+Score pour R2 : 36 dont 15 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - le coeur
+===== fermeture 2018-06-10 20:35:06.326000 ====
+
+==== lancement 2018-06-10 20:35:56.794000 ====
+Q : Quel excentrique personnage partage un the avec Alice et le Lievre de Mars 
+R1: le chat du cheshire
+R2: le chapelier fou
+R3: la chenille
+Score pour R1 : 11 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 35 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - le chat du cheshire
+La reponse est : 2 - le chapelier fou
+===== fermeture 2018-06-10 20:36:02.317000 ====
+
+==== lancement 2018-06-10 20:36:39.701000 ====
+Q : A quel president egyptien, assassine en 1981, Hosni Moubarak at-il succede 
+R1: mohammed naguib
+R2: gamal abdel nasser
+R3: anouar el sadate
+Score pour R1 : 0
+Score pour R2 : 14 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 56 dont 9 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - anouar el sadate
+===== fermeture 2018-06-10 20:36:45.057000 ====
+
+==== lancement 2018-06-10 20:37:26.056000 ====
+Q : Qu'est-ce que le tofu 
+R1: un fruit gelaniteux
+R2: un fromage de soja
+R3: une cereale asiatique
+Score pour R1 : 0
+Score pour R2 : 27
+Score pour R3 : 1
+La reponse est : 1 - un fruit gelaniteux
+La reponse est : 2 - un fromage de soja
+La reponse est : 3 - une cereale asiatique
+===== fermeture 2018-06-10 20:37:31.466000 ====
+
+==== lancement 2018-06-10 20:38:11.481000 ====
+Q : Comment appelle-t-on le navire des Vikings 
+R1: une caravelle
+R2: une galere
+R3: un drakkar
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 13 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - un drakkar
+===== fermeture 2018-06-10 20:38:16.550000 ====
+
+==== lancement 2018-06-10 20:38:54.167000 ====
+Q : Quel architecte a construit l'Institut du monde arabe a Paris 
+R1: jean nouvel
+R2: paul andreu
+R3: christian de portzamparc
+Score pour R1 : 25 dont 9 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1
+Score pour R3 : 0
+La reponse est : 1 - jean nouvel
+===== fermeture 2018-06-10 20:38:59.261000 ====
+
+==== lancement 2018-06-10 20:39:38.413000 ====
+Q : A qui attribue-t-on generalement la construction du phare d'Alexandrie 
+R1: sostrate de cnide
+R2: pytheos de priene
+R3: ictinos
+Score pour R1 : 4 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - sostrate de cnide
+===== fermeture 2018-06-10 20:39:43.632000 ====
+
+==== lancement 2018-06-10 20:40:37.742000 ====
+Q : Quel economiste liberal a affirme l'idee que << trop d'impot tue l'impot >> 
+R1: john galbraith
+R2: arthur laffer
+R3: maurice allais
+Score pour R1 : 0
+Score pour R2 : 32 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - arthur laffer
+===== fermeture 2018-06-10 20:40:43.517000 ====
+
+==== lancement 2018-06-11 19:49:59.335000 ====
+Q : 
+R1: systeme de freinage marne messe ml  
+R2: abs
+R3: ce br   ou
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-11 19:50:05.933000 ====
+===== fermeture 2018-06-11 19:50:05.933000 ====
+
+==== lancement 2018-06-11 20:27:07.414000 ====
+Q : fe ie a Fe a. De y fe * = '= . ~ ar = NE TS = | nn.  (r) -- wf Les ee Ex  E TT Vs # | TA WES Cone =  ras
+R1: a tel re a me  c  br cr  d va i  a   be a ny     4 PS sean sr rer a  ee ae i cnet
+R2: p wat  as rat an ax  a na ey kgs df ss    4 4 q sa ar of ee  wi 55 ut me of
+R3: ee 1 vs a   ao hd se od sr   ms at he  a a a a 4 ue es a  aa  df  zt   le ae _ a
+Score pour R1 : 35
+Score pour R2 : 35
+Score pour R3 : 33
+La reponse est : 1 - a tel re a me  c  br cr  d va i  a   be a ny     4 PS sean sr rer a  ee ae i cnet
+La reponse est : 2 - p wat  as rat an ax  a na ey kgs df ss    4 4 q sa ar of ee  wi 55 ut me of
+La reponse est : 3 - ee 1 vs a   ao hd se od sr   ms at he  a a a a 4 ue es a  aa  df  zt   le ae _ a
+===== fermeture 2018-06-11 20:27:20.790000 ====
+
+==== lancement 2018-06-11 20:31:53.328000 ====
+Q : Quelle serie televisee se deroule dans Wisteria Lane 
+R1: sunset beach
+R2: melrose place
+R3: desperate housewives
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 81 dont 29 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - desperate housewives
+===== fermeture 2018-06-11 20:31:58.413000 ====
+
+==== lancement 2018-06-11 20:32:45.278000 ====
+Q : Li a ot Pa
+R1: d ue
+R2: 
+R3: 
+Score pour R1 : 0
+Score pour R2 : 7950 dont 7950 rep EXACTE(S) trouvee(s)
+Score pour R3 : 7950 dont 7950 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-11 20:32:50.163000 ====
+
+==== lancement 2018-06-11 20:33:19.580000 ====
+Q : Que pratique-t-on en cas de detresse respiratoire 
+R1: bouche a oreille
+R2: bouche a bouche
+R3: bouche a langue
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 2
+La reponse est : 1 - bouche a oreille
+La reponse est : 2 - bouche a bouche
+La reponse est : 3 - bouche a langue
+===== fermeture 2018-06-11 20:33:24.289000 ====
+
+==== lancement 2018-06-11 20:33:58.723000 ====
+Q : Qui est l'interprete du tube << Bad Romance >> 
+R1: lady gaga
+R2: madonna
+R3: courtney love
+Score pour R1 : 65 dont 16 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - lady gaga
+===== fermeture 2018-06-11 20:34:03.523000 ====
+
+==== lancement 2018-06-11 20:34:46.695000 ====
+Q : Quelle divinite grecque, assimilee a Neptune par les Romains, est le dieu de la mer 
+R1: mars
+R2: poseidon
+R3: hephaistos
+Score pour R1 : 7 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R2 : 7 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - mars
+La reponse est : 2 - poseidon
+===== fermeture 2018-06-11 20:34:51.685000 ====
+
+==== lancement 2018-06-11 20:35:41.147000 ====
+Q : En francais, que signifie la lettre U du sigle UHT., inscrit sur les briques de lait 
+R1: uperisation
+R2: usinage
+R3: unite
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 3 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - unite
+===== fermeture 2018-06-11 20:35:46.291000 ====
+
+==== lancement 2018-06-11 20:36:22.687000 ====
+Q : Completez le titre de ce film de Michel Audiard : << Comment reussir quand on est con et...
+R1: paresseux
+R2: pleurnichard
+R3: peureux
+Score pour R1 : 0
+Score pour R2 : 25 dont 13 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - pleurnichard
+===== fermeture 2018-06-11 20:36:27.804000 ====
+
+==== lancement 2018-06-11 20:37:10.229000 ====
+Q : Quel est le premier moteur de recherche 
+R1: google
+R2: archie
+R3: altavista
+Score pour R1 : 54 dont 31 rep EXACTE(S) trouvee(s)
+Score pour R2 : 5 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R3 : 20 dont 12 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - google
+===== fermeture 2018-06-11 20:37:14.747000 ====
+
+==== lancement 2018-06-11 20:37:55.270000 ====
+Q : Dans quelle discipline de glisse nautique utilise-t-on un surf et une pagaie 
+R1: kayasurf
+R2: kitesurf
+R3: stand up paddle
+Score pour R1 : 0
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 48 dont 12 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - stand up paddle
+===== fermeture 2018-06-11 20:38:00.012000 ====
+
+==== lancement 2018-06-11 20:39:11.786000 ====
+Q : Dans quel pays trouve-t-on les chutes du Nil Bleu 
+R1: ethiopie d
+R2: zambie 438
+R3: malawi 217
+Score pour R1 : 8
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - ethiopie d
+La reponse est : 2 - zambie 438
+La reponse est : 3 - malawi 217
+===== fermeture 2018-06-11 20:39:16.661000 ====
+
+==== lancement 2018-06-11 20:39:29.724000 ====
+Q : Quelle ville fut capitale de la dynastie abbasside 
+R1: bahar
+R2: samarra
+R3: persepolis
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-11 20:39:34.268000 ====
+===== fermeture 2018-06-11 20:39:34.268000 ====
+
+==== lancement 2018-06-12 12:07:22.610000 ====
+Q : 
+R1: systeme de freinage marne messe ml  
+R2: abs
+R3: ce br   ou
+
+==== lancement 2018-06-12 12:09:47.633000 ====
+Q : 
+R1: systeme de freinage marne messe ml  
+R2: abs
+R3: ce br   ou
+Score pour R1 : 00
+Score pour R2 : 00
+Score pour R3 : 00
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 12:09:54.513000 ====
+===== fermeture 2018-06-12 12:09:54.513000 ====
+
+==== lancement 2018-06-12 12:13:38.384000 ====
+Q : 
+R1: systeme de freinage marne messe ml  
+R2: abs
+R3: ce br   ou
+Score pour R1 : 00
+Score pour R2 : 00
+Score pour R3 : 00
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 12:13:45.363000 ====
+===== fermeture 2018-06-12 12:13:45.363000 ====
+
+==== lancement 2018-06-12 12:32:39.543000 ====
+Q : Quel alcool est utilise dans la preparation d'un Irish coffee 
+R1: du whisky
+R2: du rhum
+R3: de la liqueur de poire
+Score pour R1 : 4 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1
+Score pour R3 : 1
+La reponse est : 1 - du whisky
+===== fermeture 2018-06-12 12:32:44.181000 ====
+
+==== lancement 2018-06-12 12:33:26.291000 ====
+Q : Quel animal est le heros du film d'animation << Fantastic Mr. Fox >> 
+R1: un chien
+R2: un lapin
+R3: un renard
+Score pour R1 : 1
+Score pour R2 : 0
+Score pour R3 : 6
+La reponse est : 1 - un chien
+La reponse est : 2 - un lapin
+La reponse est : 3 - un renard
+===== fermeture 2018-06-12 12:33:30.696000 ====
+
+==== lancement 2018-06-12 12:34:07.769000 ====
+Q : Lequel de ces arbres est un conifere 
+R1: le bouleau
+R2: le chene
+R3: l epicea
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 0
+La reponse est : 1 - le bouleau
+La reponse est : 2 - le chene
+La reponse est : 3 - l epicea
+===== fermeture 2018-06-12 12:34:11.863000 ====
+
+==== lancement 2018-06-12 12:34:49.924000 ====
+Q : Qui n'a pas ete elu president des Etats- Unis
+R1: donald trump
+R2: al gore
+R3: barack obama
+Score pour R1 : 19 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 4 dont 1 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 2 - al gore
+===== fermeture 2018-06-12 12:34:54.672000 ====
+
+==== lancement 2018-06-12 12:35:29.316000 ====
+Q : Depuis 2000, quel top model est l'icone de la Croix-Rouge francaise 
+R1: carla bruni sarkozy
+R2: linda evangelista
+R3: adriana karembeu
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 3 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - adriana karembeu
+===== fermeture 2018-06-12 12:35:34.188000 ====
+
+==== lancement 2018-06-12 12:36:18.901000 ====
+Q : Combien d'Oscars le film francais << The Artist >> a-t-il obtenus 
+R1: 3
+R2: 5
+R3: 8
+Score pour R1 : 9 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R2 : 5 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 3
+===== fermeture 2018-06-12 12:36:22.990000 ====
+
+==== lancement 2018-06-12 12:37:11.836000 ====
+Q : En quelle annee le PACS at-il ete vote en France 
+R1: 1998
+R2: 1999
+R3: 2000
+Score pour R1 : 0
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - 1999
+La reponse est : 3 - 2000
+===== fermeture 2018-06-12 12:37:16.064000 ====
+
+==== lancement 2018-06-12 12:38:01.716000 ====
+Q : Quelle partie de la plante est utilisee pour faire de la Coriandre moulue 
+R1: le fruit
+R2: la racine
+R3: la feuille
+Score pour R1 : 1
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2
+La reponse est : 2 - la racine
+La reponse est : 3 - la feuille
+===== fermeture 2018-06-12 12:38:06.771000 ====
+
+==== lancement 2018-06-12 12:38:57.323000 ====
+Q : Quel artiste impressionniste est celebre pour ses << Nympheas >> 
+R1: auguste renoir
+R2: claude monet
+R3: vincent van gogh
+Score pour R1 : 0
+Score pour R2 : 34 dont 11 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - claude monet
+===== fermeture 2018-06-12 12:39:01.925000 ====
+
+==== lancement 2018-06-12 12:39:45.787000 ====
+Q : De quelle essence sont les fusains utilises pour les dessins de la grotte Chauvet 
+R1: la vigne
+R2: le chene
+R3: le pin
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 12:39:50.714000 ====
+===== fermeture 2018-06-12 12:39:50.714000 ====
+
+==== lancement 2018-06-12 12:40:39.583000 ====
+Q : Quelle dynastie remplace les grecs dans la Perse antique au Il siecle avant JC 
+R1: les achemenides
+R2: les sassanides
+R3: les arsacides
+Score pour R1 : 12
+Score pour R2 : 12
+Score pour R3 : 12
+La reponse est : 1 - les achemenides
+La reponse est : 2 - les sassanides
+La reponse est : 3 - les arsacides
+===== fermeture 2018-06-12 12:40:45.008000 ====
+
+==== lancement 2018-06-12 12:41:41.866000 ====
+Q : Quel est le nom des aristocrates russses 
+R1: les moujiks
+R2: les boyards
+R3: les koulaks
+Score pour R1 : 10
+Score pour R2 : 12 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 10
+La reponse est : 2 - les boyards
+===== fermeture 2018-06-12 12:41:47.125000 ====

@@ -1,0 +1,339 @@
+
+==== lancement 2018-06-09 02:41:55.841000 ====
+Q : -- Qui a conclu un pacte avec Mephistopheles
+R1: victor frankenstein
+R2: oh oo  m  waamnmwaw     mq _  s0  0  0  0  0 ntn ooo sharlork holmeac
+R3: d
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 255 dont 255 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - d
+===== fermeture 2018-06-09 02:42:03.039000 ====
+
+==== lancement 2018-06-09 03:03:44.073000 ====
+Q : y (
+R1:   la  a
+R2: 
+R3: 
+Score pour R1 : 24
+Score pour R2 : 6759 dont 6759 rep EXACTE(S) trouvee(s)
+Score pour R3 : 6759 dont 6759 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-09 03:03:48.598000 ====
+
+==== lancement 2018-06-09 03:05:31.301000 ====
+Q : x. F A i Na Lee #7
+R1:           et    re 
+R2: 
+R3:   _   ig  a
+Score pour R1 : 4
+Score pour R2 : 2961 dont 2961 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - 
+===== fermeture 2018-06-09 03:05:37.262000 ====
+
+==== lancement 2018-06-09 03:07:33.776000 ====
+Q : Which of these is commonly eaten as a light, healthy snack
+R1: pad thai
+R2: bucket of cookie dough
+R3: oranae slices
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - pad thai
+La reponse est : 2 - bucket of cookie dough
+La reponse est : 3 - oranae slices
+===== fermeture 2018-06-09 03:07:38.936000 ====
+
+==== lancement 2018-06-09 03:08:09.685000 ====
+Q : eee x You're eliminated.
+R1:  
+R2: d
+R3: eaten as a light  healthy snack 
+Score pour R1 : 1110 dont 1110 rep EXACTE(S) trouvee(s)
+Score pour R2 : 266 dont 266 rep EXACTE(S) trouvee(s)
+Score pour R3 : 3
+La reponse est : 1 -  
+===== fermeture 2018-06-09 03:08:14.968000 ====
+
+==== lancement 2018-06-09 03:08:49.444000 ====
+Q : Which of these animals typically lives inside seashells for protection
+R1: beaale
+R2: hermit crab
+R3: puma
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-09 03:08:54.161000 ====
+===== fermeture 2018-06-09 03:08:54.161000 ====
+
+==== lancement 2018-06-09 03:09:26.614000 ====
+Q : What term describes an author hired to pen works credited to another person
+R1: monster writer
+R2: ghost writer
+R3: werewolf writer
+Score pour R1 : 8
+Score pour R2 : 8
+Score pour R3 : 8
+La reponse est : 1 - monster writer
+La reponse est : 2 - ghost writer
+La reponse est : 3 - werewolf writer
+===== fermeture 2018-06-09 03:09:31.843000 ====
+
+==== lancement 2018-06-09 03:09:56.235000 ====
+Q : What is the capital of Canada
+R1: ottawa
+R2: toronto
+R3: caloary
+Score pour R1 : 58 dont 37 rep EXACTE(S) trouvee(s)
+Score pour R2 : 14 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - ottawa
+===== fermeture 2018-06-09 03:10:01.094000 ====
+
+==== lancement 2018-06-09 03:10:38.397000 ====
+Q : Los Angeles Lakers legend Earvin Johnson is better known by what nickname
+R1: magic
+R2: sorcery
+R3: wizard
+Score pour R1 : 110 dont 70 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - magic
+===== fermeture 2018-06-09 03:10:43.323000 ====
+
+==== lancement 2018-06-09 03:11:34.383000 ====
+Q : Which of these mythical ancient Greeks was said to have a mortal father but an  immortal mother
+R1: hercules
+R2: zeus
+R3: achilles
+Score pour R1 : 15 dont 9 rep EXACTE(S) trouvee(s)
+Score pour R2 : 32 dont 17 rep EXACTE(S) trouvee(s)
+Score pour R3 : 28 dont 18 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - zeus
+La reponse est : 3 - achilles
+===== fermeture 2018-06-09 03:11:39.431000 ====
+
+==== lancement 2018-06-09 03:12:16.777000 ====
+Q : What common first name is found when you list the initial of each calendar month in order
+R1: damon
+R2: mandy
+R3: jason
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-09 03:12:21.673000 ====
+===== fermeture 2018-06-09 03:12:21.673000 ====
+
+==== lancement 2018-06-09 03:12:56.504000 ====
+Q : Which company's stock ticker symbol is a synonym for "large domesticated pig"
+R1: harlev davidson
+R2: oscar maver
+R3: the jim henson company
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - harlev davidson
+La reponse est : 2 - oscar maver
+La reponse est : 3 - the jim henson company
+===== fermeture 2018-06-09 03:13:02.242000 ====
+
+==== lancement 2018-06-09 03:13:48.508000 ====
+Q : The person typically credited as the "father of podcasting" previously held what job
+R1: mtv 4 
+R2: nasa scientist
+R3: apple engineer
+Score pour R1 : 1
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - mtv 4 
+La reponse est : 2 - nasa scientist
+La reponse est : 3 - apple engineer
+===== fermeture 2018-06-09 03:13:53.569000 ====
+
+==== lancement 2018-06-09 03:14:26.696000 ====
+Q : In China, what NBA super- star has the appropriate nickname "Free Throw Mamba"
+R1: kevin durant
+R2: steoh curry
+R3: james harden
+Score pour R1 : 0
+Score pour R2 : 8
+Score pour R3 : 8 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - steoh curry
+La reponse est : 3 - james harden
+===== fermeture 2018-06-09 03:14:31.730000 ====
+
+==== lancement 2018-06-09 03:15:50.735000 ====
+Q : Which of these country names is thought to be derived from a term related to cows
+R1: italy
+R2: ireland
+R3: india
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 10 dont 5 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - india
+===== fermeture 2018-06-09 03:15:55.767000 ====
+
+==== lancement 2018-06-13 03:02:09.854000 ====
+Q : 0 ON 7
+R1: d d f
+R2: a 8  ve
+R3:   a
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 5 dont 5 rep EXACTE(S) trouvee(s)
+La reponse est : 3 -   a
+===== fermeture 2018-06-13 03:02:16.159000 ====
+
+==== lancement 2018-06-13 03:04:36.578000 ====
+Q : The Disney character Mickey is what type of animal'
+R1: mamba
+R2: mouse
+R3: manatee
+Score pour R1 : 0
+Score pour R2 : 66 dont 36 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - mouse
+===== fermeture 2018-06-13 03:04:41.901000 ====
+
+==== lancement 2018-06-13 03:05:11.651000 ====
+Q : Which of these is used to stir a cocktail
+R1: swizzle stick
+R2: cheap trick
+R3: chiseled brick
+Score pour R1 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - swizzle stick
+===== fermeture 2018-06-13 03:05:16.727000 ====
+
+==== lancement 2018-06-13 03:05:45.345000 ====
+Q : What is the grammatically correct way for someone to refer to the place where you  cook
+R1: yore kitchen
+R2: your kitchen
+R3: you re kitchen
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-13 03:05:50.750000 ====
+===== fermeture 2018-06-13 03:05:50.750000 ====
+
+==== lancement 2018-06-13 03:06:19.527000 ====
+Q : What is the grammatically correct way for someone to refer to the place where you  cook
+R1: yore kitchen 3143
+R2: your kitchen
+R3: you re kitchen 24 618
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - yore kitchen 3143
+La reponse est : 2 - your kitchen
+La reponse est : 3 - you re kitchen 24 618
+===== fermeture 2018-06-13 03:06:25.044000 ====
+
+==== lancement 2018-06-13 03:06:34.709000 ====
+Q : Michelangelo's legendary sculpture "David" is made of what material
+R1: bronze
+R2: marble
+R3: clay
+Score pour R1 : 0
+Score pour R2 : 14 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - marble
+===== fermeture 2018-06-13 03:06:40.409000 ====
+
+==== lancement 2018-06-13 03:07:13.611000 ====
+Q : What element is NOT one of the key components of table salt
+R1: nitrogen
+R2: sodium
+R3: chlorine
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 82 dont 48 rep EXACTE(S) trouvee(s)
+Score pour R3 : 20 dont 11 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'not' - A CONFIRMERLa reponse est : 1 - nitrogen
+===== fermeture 2018-06-13 03:07:18.826000 ====
+
+==== lancement 2018-06-13 03:07:48.731000 ====
+Q : A snickerdoodle is a type of what
+R1: drawing
+R2: dog
+R3: cookie
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 55 dont 30 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - cookie
+===== fermeture 2018-06-13 03:07:54.079000 ====
+
+==== lancement 2018-06-13 03:08:29.045000 ====
+Q : Which of these countries shares a border with Russia
+R1: romania
+R2: norway
+R3: kyrgyzstan
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 4 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 4 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - norway
+La reponse est : 3 - kyrgyzstan
+===== fermeture 2018-06-13 03:08:34.352000 ====
+
+==== lancement 2018-06-13 03:09:30.210000 ====
+Q : One of the actors who voiced Sonic the Hedgehog in the 1990s was also a star on what sitcom
+R1: family matters
+R2: full house
+R3: step by step
+Score pour R1 : 15 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - family matters
+===== fermeture 2018-06-13 03:09:36.260000 ====
+
+==== lancement 2018-06-13 03:10:14.423000 ====
+Q : In the 905, Microsoft's co- founder paid tens of millions for a journal by whom
+R1: copernicus
+R2: leonardo da vinci
+R3: isaac newton
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 0
+La reponse est : 1 - copernicus
+La reponse est : 2 - leonardo da vinci
+La reponse est : 3 - isaac newton
+===== fermeture 2018-06-13 03:10:19.578000 ====
+
+==== lancement 2018-06-13 03:10:57.369000 ====
+Q : The son of the composer of  the "Jaws" theme gained his  own fame as the lead singer of what band
+R1: asia
+R2: air supply
+R3: toto
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - toto
+===== fermeture 2018-06-13 03:11:02.662000 ====
+
+==== lancement 2018-06-13 03:11:47.810000 ====
+Q : Which of these plants is carnivorous 
+R1: bladderwort
+R2: macaranga
+R3: ant fern
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - bladderwort
+La reponse est : 2 - macaranga
+La reponse est : 3 - ant fern
+===== fermeture 2018-06-13 03:11:52.785000 ====
+
+==== lancement 2018-06-13 03:12:49.302000 ====
+Q : In the US presidential line of  succession, which of these  cabinet members ranks the highest
+R1: attorney general
+R2: treasury secretary
+R3: defense secretary
+Score pour R1 : 0
+Score pour R2 : 8
+Score pour R3 : 8
+La reponse est : 1 - attorney general
+La reponse est : 2 - treasury secretary
+La reponse est : 3 - defense secretary
+===== fermeture 2018-06-13 03:12:54.994000 ====

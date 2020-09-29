@@ -1,0 +1,710 @@
+
+==== lancement 2018-06-12 17:57:33.017000 ====
+Q : Qui a conclu un pacte avec Mephistopheles
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 73 dont 44 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-12 17:57:37.557000 ====
+
+==== lancement 2018-06-12 17:57:46.250000 ====
+===== debut screenshot 2018-06-12 17:57:46.254000 ====
+===== fin screenshot 2018-06-12 17:57:46.486000 ====
+===== debut traitment Q/R 2018-06-12 17:57:46.486000 ====
+Q : qui a conclu un pacte avec mephistopheles
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+===== fin traitment Q/R 2018-06-12 17:57:47.381000 ====
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 75 dont 44 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-12 17:57:50.653000 ====
+
+==== lancement 2018-06-12 20:29:46.588000 ====
+Q : . so ,  OPER  JE'ait 4 de Pr a . ,  NAT EN CRC  Re REA f= thera' LPS CE  Ye Othe gir at oA.  . ce eee oe Vo. Sy RTE
+R1: le rte rna ra vi   ae se re a ca e ver lee le ne cs jet  4 ro von
+R2: deg a   ol he 34 sey ry eb s se a    a   se
+R3: sre j st pr er us  al    oe ef fox   jen le repas tt
+Score pour R1 : 72
+Score pour R2 : 30
+Score pour R3 : 63
+La reponse est : 1 - le rte rna ra vi   ae se re a ca e ver lee le ne cs jet  4 ro von
+La reponse est : 2 - deg a   ol he 34 sey ry eb s se a    a   se
+La reponse est : 3 - sre j st pr er us  al    oe ef fox   jen le repas tt
+===== fermeture 2018-06-12 20:30:01.944000 ====
+
+==== lancement 2018-06-12 20:32:53.979000 ====
+Q : Qui est l'inseparable compagnon de Titi 
+R1: toto
+R2: grosminet
+R3: tac
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - toto
+La reponse est : 2 - grosminet
+La reponse est : 3 - tac
+===== fermeture 2018-06-12 20:32:59.333000 ====
+
+==== lancement 2018-06-12 20:33:44.891000 ====
+Q : Quel est le terme francais pour email 
+R1: poste
+R2: courriel
+R3: e envoi
+Score pour R1 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 21 dont 14 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2
+La reponse est : 2 - courriel
+===== fermeture 2018-06-12 20:33:49.786000 ====
+
+==== lancement 2018-06-12 20:34:32.323000 ====
+Q : Qui etait Arthur Rimbaud 
+R1: un peintre
+R2: un poete
+R3: un sculpteur
+Score pour R1 : 19
+Score pour R2 : 19
+Score pour R3 : 19
+La reponse est : 1 - un peintre
+La reponse est : 2 - un poete
+La reponse est : 3 - un sculpteur
+===== fermeture 2018-06-12 20:34:37.212000 ====
+
+==== lancement 2018-06-12 20:35:14.375000 ====
+Q : De quelle forme etait la table du roi Arthur 
+R1: ronde
+R2: ovale
+R3: carree
+Score pour R1 : 123 dont 68 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - ronde
+===== fermeture 2018-06-12 20:35:19.405000 ====
+
+==== lancement 2018-06-12 20:35:57.655000 ====
+Q : Quel dispositif permet de maintenir une temperature stable 
+R1: un thermostat
+R2: un thermometre
+R3: un thermocouple
+Score pour R1 : 55 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 46
+Score pour R3 : 46
+La reponse est : 1 - un thermostat
+===== fermeture 2018-06-12 20:36:02.842000 ====
+
+==== lancement 2018-06-12 20:37:01.526000 ====
+Q : Quelle etait la capitale de la Republique Federale d'Allemagne 
+R1: francfort
+R2: bonn
+R3: cologne
+Score pour R1 : 3 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 35 dont 20 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - bonn
+===== fermeture 2018-06-12 20:37:06.998000 ====
+
+==== lancement 2018-06-12 20:37:47.939000 ====
+Q : Qu'ont en commun George Brecht et Ben Vautier 
+R1: bauhaus
+R2: cobra
+R3: fluxus
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 28 dont 17 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - fluxus
+===== fermeture 2018-06-12 20:37:52.864000 ====
+
+==== lancement 2018-06-12 20:38:41.576000 ====
+Q : Quel est le nom commun du << Felis silvestris catus >> 
+R1: chat domestique
+R2: crocodile
+R3: corbeau
+Score pour R1 : 52 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - chat domestique
+===== fermeture 2018-06-12 20:38:47.409000 ====
+
+==== lancement 2018-06-12 20:39:27.744000 ====
+Q : Quel est le nom du chanteur du groupe new wave britannique << The Cure >> 
+R1: boy george
+R2: dave gahan
+R3: robert smith
+Score pour R1 : 0
+Score pour R2 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 15 dont 5 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - robert smith
+===== fermeture 2018-06-12 20:39:32.639000 ====
+
+==== lancement 2018-06-12 20:40:16.169000 ====
+Q : Qui a ete le premier fabricant mondial de PC en 2017 
+R1: hp
+R2: lenovo
+R3: dell
+Score pour R1 : 49 dont 31 rep EXACTE(S) trouvee(s)
+Score pour R2 : 95 dont 37 rep EXACTE(S) trouvee(s)
+Score pour R3 : 21 dont 13 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - lenovo
+===== fermeture 2018-06-12 20:40:20.987000 ====
+
+==== lancement 2018-06-12 20:41:10.592000 ====
+Q : En economie, quelle est la duree d'un cycle de Kondratiev 
+R1: 10 a 20 ans
+R2: 20 a 40 ans
+R3: 40 a 60 ans
+Score pour R1 : 23
+Score pour R2 : 23
+Score pour R3 : 16
+La reponse est : 1 - 10 a 20 ans
+La reponse est : 2 - 20 a 40 ans
+La reponse est : 3 - 40 a 60 ans
+===== fermeture 2018-06-12 20:41:15.932000 ====
+
+==== lancement 2018-06-12 20:42:13.712000 ====
+Q : Quel club de foot francais joue au Stade Bollaert-Delelis
+R1: le fc metz
+R2: le rc lens
+R3: le sco d angers
+Score pour R1 : 105
+Score pour R2 : 226
+Score pour R3 : 105
+La reponse est : 1 - le fc metz
+La reponse est : 2 - le rc lens
+La reponse est : 3 - le sco d angers
+===== fermeture 2018-06-12 20:42:18.826000 ====
+
+==== lancement 2018-06-12 21:02:09.769000 ====
+Q : Welche Farbe hat die Milka-Kuh
+R1: schwarz
+R2: lila
+R3: orange
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 119 dont 38 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - lila
+===== fermeture 2018-06-12 21:02:14.724000 ====
+
+==== lancement 2018-06-12 21:03:01.197000 ====
+Q : Was folgt in der Regel auf einen Blitz
+R1: donner
+R2: regenbogen
+R3: nebel
+Score pour R1 : 31 dont 18 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - donner
+===== fermeture 2018-06-12 21:03:06.485000 ====
+
+==== lancement 2018-06-12 21:03:57.753000 ====
+Q : Was wird traditionell am Silvesterabend gegossen
+R1: baume
+R2: blumen
+R3: blei
+Score pour R1 : 0
+Score pour R2 : 3 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 58 dont 33 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - blei
+===== fermeture 2018-06-12 21:04:02.626000 ====
+
+==== lancement 2018-06-12 21:04:48.115000 ====
+Q : Welches Lied von David Hasselhoff gilt als ein Symbol fur den Mauerfall
+R1:   want to break free
+R2: born to be wild
+R3: looking for freedom
+Score pour R1 : 9
+Score pour R2 : 0
+Score pour R3 : 39 dont 7 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - looking for freedom
+===== fermeture 2018-06-12 21:04:53.923000 ====
+
+==== lancement 2018-06-12 21:05:43.016000 ====
+Q : Was versteht man unter Pasteurisierung
+R1: diingeverfahren
+R2: herstellung von pasta
+R3: erhitzung von lebensmitteln
+Score pour R1 : 0
+Score pour R2 : 15
+Score pour R3 : 21
+La reponse est : 1 - diingeverfahren
+La reponse est : 2 - herstellung von pasta
+La reponse est : 3 - erhitzung von lebensmitteln
+===== fermeture 2018-06-12 21:05:48.250000 ====
+
+==== lancement 2018-06-12 21:06:40.477000 ====
+Q : Was ist die hochste Trumpfkarte im bayerischen Kartenspiel "Schafkopf"
+R1: eichel ober
+R2: herz kgnig
+R3: blatt ass
+Score pour R1 : 14
+Score pour R2 : 6
+Score pour R3 : 6
+La reponse est : 1 - eichel ober
+La reponse est : 2 - herz kgnig
+La reponse est : 3 - blatt ass
+===== fermeture 2018-06-12 21:06:45.644000 ====
+
+==== lancement 2018-06-12 21:07:41.529000 ====
+Q : Wie heifit das aktuell umsatzstarkste Musical der Welt
+R1: das phantom der oper
+R2: der konig der lowen
+R3: starlight express
+Score pour R1 : 21
+Score pour R2 : 28
+Score pour R3 : 0
+La reponse est : 1 - das phantom der oper
+La reponse est : 2 - der konig der lowen
+La reponse est : 3 - starlight express
+===== fermeture 2018-06-12 21:07:47.399000 ====
+
+==== lancement 2018-06-12 21:08:34.414000 ====
+Q : Wo wurde der erste nationale Fussballverband Deutschlands gegriindet
+R1: leipzig
+R2: munchen
+R3: frankfurt
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 21:08:40.579000 ====
+===== fermeture 2018-06-12 21:08:40.579000 ====
+
+==== lancement 2018-06-12 21:09:29.576000 ====
+Q : Wer komponierte "Leaving on a Jet Plane" von Peter, Paul und Mary
+R1: paul anka
+R2: bob dylan
+R3: john denver
+Score pour R1 : 30
+Score pour R2 : 0
+Score pour R3 : 94 dont 32 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - john denver
+===== fermeture 2018-06-12 21:09:34.905000 ====
+
+==== lancement 2018-06-12 21:10:28.454000 ====
+Q : Welches Land war 2016 dichter bevulkert
+R1: nigeria
+R2: monaco
+R3: bangladesh
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 21:10:32.956000 ====
+===== fermeture 2018-06-12 21:10:32.956000 ====
+
+==== lancement 2018-06-12 21:11:24.962000 ====
+Q : Wie hief die erste Firma, die in Deutschland Werbung fir FuSballtrikots machte
+R1: jagermeister
+R2: campari
+R3: caterpillar
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 21:11:30.741000 ====
+===== fermeture 2018-06-12 21:11:30.741000 ====
+
+==== lancement 2018-06-12 21:12:59.606000 ====
+Q : Wer wurde 1949 zum ersten Deutschen Bundestagsprasidenten gewahlt
+R1: erich kohler
+R2: paul lube
+R3: hermann ehlers
+Score pour R1 : 7
+Score pour R2 : 3
+Score pour R3 : 0
+La reponse est : 1 - erich kohler
+La reponse est : 2 - paul lube
+La reponse est : 3 - hermann ehlers
+===== fermeture 2018-06-12 21:13:05.396000 ====
+
+==== lancement 2018-06-12 21:32:57.124000 ====
+Q : Which animal would you be listening to if you heard it tweeting
+R1: cat
+R2: dog
+R3: bird
+Score pour R1 : 5 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 25 dont 15 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - bird
+===== fermeture 2018-06-12 21:33:02.665000 ====
+
+==== lancement 2018-06-12 21:33:47.791000 ====
+Q : What is the name of the product provided by hens that is often found in the dairy aisle
+R1: cheese
+R2: eggs
+R3: milk
+Score pour R1 : 10 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R2 : 64 dont 36 rep EXACTE(S) trouvee(s)
+Score pour R3 : 52 dont 27 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - eggs
+===== fermeture 2018-06-12 21:33:52.980000 ====
+
+==== lancement 2018-06-12 21:34:35.482000 ====
+Q : The nose is most commonly associated with which of the five senses
+R1: sight
+R2: smell
+R3: touch
+Score pour R1 : 14 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R2 : 51 dont 28 rep EXACTE(S) trouvee(s)
+Score pour R3 : 12 dont 6 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - smell
+===== fermeture 2018-06-12 21:34:40.467000 ====
+
+==== lancement 2018-06-12 21:35:21.732000 ====
+Q : According to the lyrics of which song did George Michael "cheat a friend"
+R1: fantasy
+R2: one more try
+R3: careless whisper
+Score pour R1 : 0
+Score pour R2 : 16 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 41 dont 14 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - careless whisper
+===== fermeture 2018-06-12 21:35:27.068000 ====
+
+==== lancement 2018-06-12 21:36:05.822000 ====
+Q : What is the name of the popular children's modelling compound now marketed by Hasbro
+R1: play doh
+R2: fun doh
+R3: toy doh
+Score pour R1 : 52
+Score pour R2 : 4
+Score pour R3 : 25
+La reponse est : 1 - play doh
+La reponse est : 2 - fun doh
+La reponse est : 3 - toy doh
+===== fermeture 2018-06-12 21:36:10.981000 ====
+
+==== lancement 2018-06-12 21:36:56.327000 ====
+Q : If you are told to "Be Afraid of the Future", what film will you be watching
+R1: terminator 2
+R2: the matrix
+R3: 28 days later
+Score pour R1 : 0
+Score pour R2 : 8 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2
+La reponse est : 2 - the matrix
+===== fermeture 2018-06-12 21:37:01.951000 ====
+
+==== lancement 2018-06-12 21:37:38.676000 ====
+Q : For which comedy publication did Chevy Chase once write a spoof strip
+R1: the onion
+R2: mad magazine
+R3: answer me 
+Score pour R1 : 4 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 25 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - the onion
+La reponse est : 2 - mad magazine
+===== fermeture 2018-06-12 21:37:44.133000 ====
+
+==== lancement 2018-06-12 21:38:18.790000 ====
+Q : Which comic book antihero's operations are set within the Terrebonne Parish
+R1: swamp thing
+R2: john constantine
+R3: preacher
+Score pour R1 : 4 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1
+Score pour R3 : 0
+La reponse est : 1 - swamp thing
+===== fermeture 2018-06-12 21:38:24.469000 ====
+
+==== lancement 2018-06-12 21:39:02.751000 ====
+Q : Which of these is NOT a constituent of gallbladder bile in humans
+R1: lecithin
+R2: cholesterol
+R3: cerumen
+Score pour R1 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 17 dont 9 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+NEGATION DETECTEE AVEC 'not' - A CONFIRMERLa reponse est : 3 - cerumen
+===== fermeture 2018-06-12 21:39:07.785000 ====
+
+==== lancement 2018-06-12 21:39:45.516000 ====
+Q : Which of the ten Sikh Nanaks experienced the shortest incumbency
+R1: har rai
+R2: har krishan
+R3: arjun dev
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 21:39:50.518000 ====
+===== fermeture 2018-06-12 21:39:50.518000 ====
+
+==== lancement 2018-06-12 21:40:27.398000 ====
+Q : Which of these was a pen and paper RPG released the same year that the Malvinas War broke out
+R1: space infantry
+R2: midgard
+R3: the dark eye
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - space infantry
+La reponse est : 2 - midgard
+La reponse est : 3 - the dark eye
+===== fermeture 2018-06-12 21:40:32.740000 ====
+
+==== lancement 2018-06-12 21:41:24.793000 ====
+Q : Harry Lodge cycled for ten professional teams. Which of these did he NOT cycle for
+R1: tulip computers
+R2: flanders
+R3: boston
+Score pour R1 : 1
+Score pour R2 : 0
+Score pour R3 : 0
+NEGATION DETECTEE AVEC 'not' - A CONFIRMERLa reponse est : 1 - tulip computers
+La reponse est : 2 - flanders
+La reponse est : 3 - boston
+===== fermeture 2018-06-12 21:41:30.008000 ====
+
+==== lancement 2018-06-13 01:55:31.620000 ====
+Q : 
+R1: systeme de freinage marne messe ml  
+R2: abs
+R3: ce br   ou
+Score pour R1 : 2
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - systeme de freinage marne messe ml  
+La reponse est : 2 - abs
+La reponse est : 3 - ce br   ou
+===== fermeture 2018-06-13 01:55:38.718000 ====
+
+==== lancement 2018-06-13 02:02:47.191000 ====
+Q : A New York Strip is what type of meat
+R1: pork
+R2: chicken
+R3: beef
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 46 dont 30 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - beef
+===== fermeture 2018-06-13 02:02:52.106000 ====
+
+==== lancement 2018-06-13 02:03:46.880000 ====
+Q : In 2015, what clothing item became a viral online sensation when it appeared as different colors to different people
+R1: a jacket
+R2: a pair of shoes
+R3: a dress
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 31 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - a dress
+===== fermeture 2018-06-13 02:03:53.197000 ====
+
+==== lancement 2018-06-13 02:04:39.893000 ====
+Q : What Netflix original, set in the 1980s, features a group of kids that gets involved with supernatural occurrences
+R1: 13 reasons why
+R2: stranger things
+R3: altered carbon
+Score pour R1 : 1
+Score pour R2 : 83 dont 29 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - stranger things
+===== fermeture 2018-06-13 02:04:46.101000 ====
+
+==== lancement 2018-06-13 02:05:30.176000 ====
+Q : What is the effect when a Mentos candy is dropped into a bottle of Diet Coke
+R1: creates fire
+R2: coke sprays out
+R3: coke glows
+Score pour R1 : 0
+Score pour R2 : 51
+Score pour R3 : 51
+La reponse est : 1 - creates fire
+La reponse est : 2 - coke sprays out
+La reponse est : 3 - coke glows
+===== fermeture 2018-06-13 02:05:35.619000 ====
+
+==== lancement 2018-06-13 02:06:22.886000 ====
+Q : What do firemen do in Ray Bradbury's Fahrenheit 451
+R1: burn family portraits
+R2: burn books
+R3: burn money
+Score pour R1 : 8
+Score pour R2 : 20 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 8
+La reponse est : 2 - burn books
+===== fermeture 2018-06-13 02:06:29.501000 ====
+
+==== lancement 2018-06-13 02:08:11.586000 ====
+Q : What advertising adverb is used to describe how strong Altoids are
+R1: surprisingly
+R2: suspiciously
+R3: curiously
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 4 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - curiously
+===== fermeture 2018-06-13 02:08:17.948000 ====
+
+==== lancement 2018-06-13 02:08:58.449000 ====
+Q : Where was the first Disney theme park built outside of the United States
+R1: tokyo
+R2: paris
+R3: hong kong
+Score pour R1 : 31 dont 20 rep EXACTE(S) trouvee(s)
+Score pour R2 : 8 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R3 : 3 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - tokyo
+===== fermeture 2018-06-13 02:09:04.558000 ====
+
+==== lancement 2018-06-13 02:09:55.441000 ====
+Q : An oboe falls under which woodwind instrument family
+R1: flute
+R2: single reed
+R3: double reed
+Score pour R1 : 20 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R2 : 15
+Score pour R3 : 29 dont 8 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - flute
+La reponse est : 3 - double reed
+===== fermeture 2018-06-13 02:10:01.819000 ====
+
+==== lancement 2018-06-13 03:28:21.432000 ====
+Q : our
+R1: 
+R2: vip pour plus de fonctions
+R3: 
+Score pour R1 : 6504 dont 6504 rep EXACTE(S) trouvee(s)
+Score pour R2 : 35
+Score pour R3 : 6504 dont 6504 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-13 03:28:26.628000 ====
+
+==== lancement 2018-06-13 03:33:26.170000 ====
+Q : When something is easy, what might one say it is a "piece of"
+R1: cake
+R2: paper
+R3: bread
+Score pour R1 : 30 dont 15 rep EXACTE(S) trouvee(s)
+Score pour R2 : 4 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - cake
+===== fermeture 2018-06-13 03:33:31.356000 ====
+
+==== lancement 2018-06-13 03:34:18.944000 ====
+Q : In which New York City borough is the financial center known as Wall Street
+R1: queens
+R2: brooklyn
+R3: manhattan
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 6 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R3 : 60 dont 37 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - manhattan
+===== fermeture 2018-06-13 03:34:25.092000 ====
+
+==== lancement 2018-06-13 03:35:08.407000 ====
+Q : What Disney film created the word "supercalifragilisticexpialidocious'
+R1: mary poppins
+R2: cinderella
+R3: sleeping beauty
+Score pour R1 : 81 dont 25 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - mary poppins
+===== fermeture 2018-06-13 03:35:14.043000 ====
+
+==== lancement 2018-06-13 03:36:04.262000 ====
+Q : Which of these is NOT considered one of the Seven Deadly Sins
+R1: sloth
+R2: pride
+R3: artifice
+Score pour R1 : 6 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R2 : 14 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+NEGATION DETECTEE AVEC 'not' - A CONFIRMERLa reponse est : 3 - artifice
+===== fermeture 2018-06-13 03:36:10.074000 ====
+
+==== lancement 2018-06-13 03:36:56.892000 ====
+Q : How often does the United States Census take place
+R1: every 5 years
+R2: every 10 years
+R3: every 20 years
+Score pour R1 : 17
+Score pour R2 : 24 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 37
+La reponse est : 2 - every 10 years
+La reponse est : 3 - every 20 years
+===== fermeture 2018-06-13 03:37:01.645000 ====
+
+==== lancement 2018-06-13 03:38:30.436000 ====
+Q : Which basketball team is owned by Michael Jordan
+R1: atlanta hawks
+R2: denver nuggets
+R3: charlotte hornets
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 55 dont 12 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - charlotte hornets
+===== fermeture 2018-06-13 03:38:36.598000 ====
+
+==== lancement 2018-06-13 03:39:15.704000 ====
+Q : Who was the inventor of the wind-up radio
+R1: guglielmo marconi
+R2: trevor baylis
+R3: heinrich hertz
+Score pour R1 : 0
+Score pour R2 : 130 dont 45 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - trevor baylis
+===== fermeture 2018-06-13 03:39:21.625000 ====
+
+==== lancement 2018-06-13 03:40:22.627000 ====
+Q : On average, which of these birds lays the smallest eggs
+R1: pheasant
+R2: turkey
+R3: goose
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - goose
+===== fermeture 2018-06-13 03:40:28.279000 ====
+
+==== lancement 2018-06-13 03:41:19.797000 ====
+Q : Which of these authors had more than one novel published in their lifetime
+R1: oscar wilde
+R2: emily bronte
+R3: leo tolstoy
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - oscar wilde
+La reponse est : 2 - emily bronte
+La reponse est : 3 - leo tolstoy
+===== fermeture 2018-06-13 03:41:26.275000 ====
+
+==== lancement 2018-06-13 03:42:13.027000 ====
+Q : Which member of the band 'fun: has produced records for the likes of Taylor Swift & Lorde
+R1: jack antonoff
+R2: nate ruess
+R3: andrew dost
+Score pour R1 : 64 dont 21 rep EXACTE(S) trouvee(s)
+Score pour R2 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - jack antonoff
+===== fermeture 2018-06-13 03:42:19.662000 ====
+
+==== lancement 2018-06-13 03:42:59.443000 ====
+Q : What is the more common name for World War Il's Ardennes Offensive
+R1: the battle of britain
+R2: the battle of stalingrad
+R3: the battle of the bulge
+Score pour R1 : 32
+Score pour R2 : 32
+Score pour R3 : 76 dont 8 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - the battle of the bulge
+===== fermeture 2018-06-13 03:43:06.214000 ====
+
+==== lancement 2018-06-13 03:44:32.086000 ====
+Q : Which of the following countries does NOT currently participate in Daylight Saving Time
+R1: paraguay
+R2: spain
+R3: india
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 4 dont 2 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'not' - A CONFIRMERLa reponse est : 1 - paraguay
+La reponse est : 2 - spain
+===== fermeture 2018-06-13 03:44:38.562000 ====

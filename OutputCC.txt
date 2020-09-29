@@ -1,0 +1,423 @@
+
+==== lancement 2018-06-10 19:22:27.084000 ====
+Q : Lorsqu'on coupe en Brunoise, on obtient.
+R1: de petits batonnets 202
+R2: de fines lamelles 241
+R3: de petits des 1900
+Score pour R1 : 10
+Score pour R2 : 0
+Score pour R3 : 10
+La reponse est : 1 - de petits batonnets 202
+La reponse est : 2 - de fines lamelles 241
+La reponse est : 3 - de petits des 1900
+===== fermeture 2018-06-10 19:22:31.705000 ====
+
+==== lancement 2018-06-10 19:34:21.130000 ====
+Q : Completez l'expression suivante : "Etre haut comme ...
+R1: 3 cacahuetes
+R2: 3 pommes
+R3: 1 sarko
+Score pour R1 : 0
+Score pour R2 : 10 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - 3 pommes
+===== fermeture 2018-06-10 19:34:26.101000 ====
+
+==== lancement 2018-06-10 19:35:00.835000 ====
+Q : Quel type de sel est obligatoirement recolte manuellement 
+R1: la fleur de sel
+R2: le sel fin
+R3: le gros sel
+Score pour R1 : 39 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 37
+Score pour R3 : 37
+La reponse est : 1 - la fleur de sel
+===== fermeture 2018-06-10 19:35:05.980000 ====
+
+==== lancement 2018-06-10 19:35:57.164000 ====
+Q : Le trophee Andros est une competition de :
+R1: patinage artistique
+R2: mangeur de compotes
+R3: rallye automobile sur glace
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 21
+La reponse est : 1 - patinage artistique
+La reponse est : 2 - mangeur de compotes
+La reponse est : 3 - rallye automobile sur glace
+===== fermeture 2018-06-10 19:36:01.677000 ====
+
+==== lancement 2018-06-10 19:36:48.271000 ====
+Q : Quel artiste a cree Les Restos du coeur 
+R1: coeur de pirate
+R2: carlos
+R3: coluche
+Score pour R1 : 29
+Score pour R2 : 0
+Score pour R3 : 31 dont 18 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - coluche
+===== fermeture 2018-06-10 19:36:52.696000 ====
+
+==== lancement 2018-06-10 19:37:41.898000 ====
+Q : Qu'a-t-on trouve dans les tartes au chocolat IKEA en 2013 
+R1: des traces de matieres fecales
+R2: des fjords
+R3: un jeu de vis ikea
+Score pour R1 : 3
+Score pour R2 : 0
+Score pour R3 : 41
+La reponse est : 1 - des traces de matieres fecales
+La reponse est : 2 - des fjords
+La reponse est : 3 - un jeu de vis ikea
+===== fermeture 2018-06-10 19:37:46.581000 ====
+
+==== lancement 2018-06-10 19:38:34.577000 ====
+Q : De quoi etait constituee la robe de Lady Gaga aux MTV awards en 2010 
+R1: de legumes
+R2: d ailes de poulet
+R3: de viande rouge
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 50
+La reponse est : 1 - de legumes
+La reponse est : 2 - d ailes de poulet
+La reponse est : 3 - de viande rouge
+===== fermeture 2018-06-10 19:38:39.414000 ====
+
+==== lancement 2018-06-10 19:39:35.871000 ====
+Q : Quelle plante Harry Potter mange-t-il pour pouvoir respirer sous l'eau 
+R1: mandragore
+R2: branchiflore
+R3: voltiflor
+Score pour R1 : 5 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R2 : 17 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - branchiflore
+===== fermeture 2018-06-10 19:39:41.059000 ====
+
+==== lancement 2018-06-10 19:40:28.507000 ====
+Q : Comment s'appelle le restaurant de Tom-Tom et Nana 
+R1: a la bonne franquette
+R2: a la bonne fourchette
+R3: a la bonne chouquette
+Score pour R1 : 11
+Score pour R2 : 31 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R3 : 11
+La reponse est : 2 - a la bonne fourchette
+===== fermeture 2018-06-10 19:40:33.510000 ====
+
+==== lancement 2018-06-10 19:41:23.880000 ====
+Q : Quelle est la specialite du patissier Christophe Adam 
+R1: les glands
+R2: les eclairs
+R3: les choux
+Score pour R1 : 20
+Score pour R2 : 23
+Score pour R3 : 20
+La reponse est : 1 - les glands
+La reponse est : 2 - les eclairs
+La reponse est : 3 - les choux
+===== fermeture 2018-06-10 19:41:28.354000 ====
+
+==== lancement 2018-06-10 19:42:10.497000 ====
+Q : Dans une brigade de cuisine, comment appelle-t-on celui qui prepare le repas du personnel 
+R1: lentremetier
+R2: le communard
+R3: le tournant
+Score pour R1 : 0
+Score pour R2 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - le communard
+La reponse est : 3 - le tournant
+===== fermeture 2018-06-10 19:42:15.377000 ====
+
+==== lancement 2018-06-10 19:43:02.005000 ====
+Q : Laquelle de ces marques de boisson pour sportifs est apparu en premier 
+R1: isostar
+R2: gatorade
+R3: powerade
+Score pour R1 : 0
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - gatorade
+===== fermeture 2018-06-10 19:43:06.939000 ====
+
+==== lancement 2018-06-10 19:45:00.810000 ====
+Q : Quelle monnaie alternative creee a Montreuil a ete lancee en avril dernier a Paris 
+R1: la pomme
+R2: la peche
+R3: la poire
+Score pour R1 : 0
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - la peche
+===== fermeture 2018-06-10 19:45:05.691000 ====
+
+==== lancement 2018-06-11 19:18:49.568000 ====
+Q : a , D
+R1: 
+R2: 
+R3: as  us
+Score pour R1 : 6810 dont 6810 rep EXACTE(S) trouvee(s)
+Score pour R2 : 6810 dont 6810 rep EXACTE(S) trouvee(s)
+Score pour R3 : 3
+La reponse est : 1 - 
+La reponse est : 2 - 
+===== fermeture 2018-06-11 19:18:54.822000 ====
+
+==== lancement 2018-06-11 19:22:22.606000 ====
+Q : y PS
+R1: 
+R2: elairie  ctiur   mescailil  ide nadegeu 2  ye pierrotss  iniioiicniinr  lay trictana tral tary
+R3: yi  sappnifacea  g uni   m laridelle  mawkish  eee ae
+Score pour R1 : 6930 dont 6930 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - 
+===== fermeture 2018-06-11 19:22:31.603000 ====
+
+==== lancement 2018-06-11 19:28:09.254000 ====
+Q : a. = =
+R1:     vedriefie7z
+R2: vuire dai ickie
+R3: 
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 6878 dont 6878 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-11 19:28:14.628000 ====
+
+==== lancement 2018-06-11 19:34:51.772000 ====
+Q : Quel objet de culte religieux est egalement un coquillage comestible 
+R1: la kippa
+R2: le benitier
+R3: le tapis de priere
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-11 19:34:56.953000 ====
+===== fermeture 2018-06-11 19:34:56.953000 ====
+
+==== lancement 2018-06-11 19:35:53.626000 ====
+Q : Dans La vie est un long fleuve tranquille, chez les Le Quesnoy, 'le lundi c'est...
+R1:    salsifis  
+R2:    brocolis  
+R3: raviolis 
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 9 dont 5 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - raviolis 
+===== fermeture 2018-06-11 19:35:59.192000 ====
+
+==== lancement 2018-06-11 19:36:47.628000 ====
+Q : En 1997, quelle partie du corps de son adversaire Mike Tyson a-t-il mordu 
+R1: le nez
+R2: l oreille
+R3: les fesses
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 25
+La reponse est : 1 - le nez
+La reponse est : 2 - l oreille
+La reponse est : 3 - les fesses
+===== fermeture 2018-06-11 19:36:52.830000 ====
+
+==== lancement 2018-06-11 19:37:38.938000 ====
+Q : Dans le jargon, comment appelle-t-on une contravention 
+R1: une amande
+R2: un pain
+R3: une prune
+Score pour R1 : 0
+Score pour R2 : 2
+Score pour R3 : 8 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - une prune
+===== fermeture 2018-06-11 19:37:43.728000 ====
+
+==== lancement 2018-06-11 19:38:34.767000 ====
+Q : Quel est le nom des petites boules mangees par Pac- man 
+R1: pac bulle
+R2: pac gomme
+R3: pac de bieres
+Score pour R1 : 60
+Score pour R2 : 61
+Score pour R3 : 60
+La reponse est : 1 - pac bulle
+La reponse est : 2 - pac gomme
+La reponse est : 3 - pac de bieres
+===== fermeture 2018-06-11 19:38:39.575000 ====
+
+==== lancement 2018-06-11 19:40:12.594000 ====
+Q : SE CC 2 is eC
+R1: sys ul peay carlikica a mtarnnkhilo 2 
+R2: a
+R3: 
+Score pour R1 : 2
+Score pour R2 : 440 dont 433 rep EXACTE(S) trouvee(s)
+Score pour R3 : 7708 dont 7708 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-11 19:40:20.209000 ====
+
+==== lancement 2018-06-11 19:40:59.494000 ====
+Q : SE CC 2 is eC
+R1: sys ul peay carlikica a mtarnnkhilo 2 
+R2: a
+R3: 
+Score pour R1 : 2
+Score pour R2 : 440 dont 433 rep EXACTE(S) trouvee(s)
+Score pour R3 : 7708 dont 7708 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-11 19:41:06.759000 ====
+
+==== lancement 2018-06-12 19:16:55.243000 ====
+Q : SE CC 2 is eC
+R1: sys ul peay carlikica a mtarnnkhilo 2 
+R2: a
+R3: 
+Score pour R1 : 3
+Score pour R2 : 389 dont 384 rep EXACTE(S) trouvee(s)
+Score pour R3 : 7886 dont 7886 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-12 19:17:03.447000 ====
+
+==== lancement 2018-06-12 19:34:38.559000 ====
+Q : Que ne faut-il ABSOLUMENT PAS consommer avant un premier rencard 
+R1: un mentos
+R2: de l ail
+R3: un tic tac
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 1
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - un mentos
+La reponse est : 2 - de l ail
+La reponse est : 3 - un tic tac
+===== fermeture 2018-06-12 19:34:43.529000 ====
+
+==== lancement 2018-06-12 19:35:29.293000 ====
+Q : ee ee ee -- defendre leur chateau au Moyen-Age, quel aliment les soldats jettaient-ils depuis les remparts 
+R1: du sel
+R2: des oignons
+R3: de l huile bouillante
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 19:35:38.668000 ====
+===== fermeture 2018-06-12 19:35:38.668000 ====
+
+==== lancement 2018-06-12 19:36:14.235000 ====
+Q : Quel ustensile de cuisine porte le nom d'un ballet 
+R1: ecumoire
+R2: presse citron
+R3: casse noisette
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 8
+La reponse est : 1 - ecumoire
+La reponse est : 2 - presse citron
+La reponse est : 3 - casse noisette
+===== fermeture 2018-06-12 19:36:19.142000 ====
+
+==== lancement 2018-06-12 19:37:08.137000 ====
+Q : Qui est le patron du restaurant dans Bob l'eponge 
+R1: monsieur sharks
+R2: monsieur krabs
+R3: monsieur poulpe
+Score pour R1 : 1
+Score pour R2 : 16 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1
+La reponse est : 2 - monsieur krabs
+===== fermeture 2018-06-12 19:37:13.116000 ====
+
+==== lancement 2018-06-12 19:37:59.464000 ====
+Q : Lequel de ces mots est correctement orthographie 
+R1: rhubarbe
+R2: rubbarbe
+R3: rubarbe
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 19:38:04.278000 ====
+===== fermeture 2018-06-12 19:38:04.278000 ====
+
+==== lancement 2018-06-12 19:38:52.044000 ====
+Q : Combien y-a-t'il de degres celsius de difference entre thermostat 6 et thermostat 17
+R1: 20
+R2: 30
+R3: 40
+Score pour R1 : 56 dont 30 rep EXACTE(S) trouvee(s)
+Score pour R2 : 4 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 20
+===== fermeture 2018-06-12 19:38:57.367000 ====
+
+==== lancement 2018-06-12 19:39:53.218000 ====
+Q : Comment surnomme-t-on sur internet le chef ture connu pour sa maniere particuliere de saler la viande 
+R1: salt bae
+R2: salt crush
+R3: salt lover
+Score pour R1 : 22 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R2 : 8
+Score pour R3 : 8
+La reponse est : 1 - salt bae
+===== fermeture 2018-06-12 19:39:58.999000 ====
+
+==== lancement 2018-06-12 19:40:46.541000 ====
+Q : Sur quel alcool americain un droit de douane sera impose dans l'UE a partir de juillet 
+R1: le bourbon du tenessee
+R2: le vin de californie
+R3: la vodka d alaska
+Score pour R1 : 0
+Score pour R2 : 2
+Score pour R3 : 0
+La reponse est : 1 - le bourbon du tenessee
+La reponse est : 2 - le vin de californie
+La reponse est : 3 - la vodka d alaska
+===== fermeture 2018-06-12 19:40:52.113000 ====
+
+==== lancement 2018-06-12 19:41:45.375000 ====
+Q : Quelle peinture d'Edouard Manet represente un pique- nique 
+R1: le dejeuner sur l herbe
+R2: un ete sur les bords de la seine
+R3: le diner du bois de boulogne
+Score pour R1 : 4
+Score pour R2 : 20
+Score pour R3 : 1
+La reponse est : 1 - le dejeuner sur l herbe
+La reponse est : 2 - un ete sur les bords de la seine
+La reponse est : 3 - le diner du bois de boulogne
+===== fermeture 2018-06-12 19:41:50.853000 ====
+
+==== lancement 2018-06-12 19:42:42.566000 ====
+Q : 'So > 4
+R1: 
+R2: 
+R3: eu  
+Score pour R1 : 7202 dont 7202 rep EXACTE(S) trouvee(s)
+Score pour R2 : 7202 dont 7202 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - 
+La reponse est : 2 - 
+===== fermeture 2018-06-12 19:42:47.546000 ====
+
+==== lancement 2018-06-12 19:43:33.949000 ====
+Q : Quel acteur a revendu sa marque de tequila pour 1 milliard de dollars 
+R1: georges clooney
+R2: brad pitt
+R3: tom cruise
+Score pour R1 : 33 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - georges clooney
+===== fermeture 2018-06-12 19:43:39.929000 ====
+
+==== lancement 2018-06-12 19:44:57.160000 ====
+Q : D'ou provient le nom Tartare de steak tartare 
+R1: d une tribu d asie centrale
+R2: d une brasserie lyonnaise
+R3: du latin tar qui veut dire cru
+Score pour R1 : 1
+Score pour R2 : 4
+Score pour R3 : 85
+La reponse est : 1 - d une tribu d asie centrale
+La reponse est : 2 - d une brasserie lyonnaise
+La reponse est : 3 - du latin tar qui veut dire cru
+===== fermeture 2018-06-12 19:45:02.295000 ====

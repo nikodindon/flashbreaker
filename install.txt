@@ -1,0 +1,1 @@
+in console : setx PYTHONIOENCODING utf-8

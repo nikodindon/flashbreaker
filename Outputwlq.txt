@@ -1,0 +1,488 @@
+
+==== lancement 2018-06-11 17:23:31.467000 ====
+
+==== lancement 2018-06-11 17:23:41.667000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 16 dont 11 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-11 17:23:46.941000 ====
+
+==== lancement 2018-06-11 19:03:23.127000 ====
+Q : / | oe Onjeommence dans
+R1: www aww
+R2: 
+R3: 
+Score pour R1 : 0
+Score pour R2 : 1804 dont 1804 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1804 dont 1804 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-11 19:03:28.076000 ====
+
+==== lancement 2018-06-12 12:11:07.909000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 00 dont 00 rep EXACTE(S) trouvee(s)
+Score pour R2 : 00
+Score pour R3 : 00
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:11:13.523000 ====
+
+==== lancement 2018-06-12 12:14:03.573000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 00 dont 00 rep EXACTE(S) trouvee(s)
+Score pour R2 : 00
+Score pour R3 : 00
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:14:09.374000 ====
+
+==== lancement 2018-06-12 12:15:35.774000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 00 dont 00 rep EXACTE(S) trouvee(s)
+Score pour R2 : 00
+Score pour R3 : 00
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:15:41.304000 ====
+
+==== lancement 2018-06-12 12:16:32.061000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+
+==== lancement 2018-06-12 12:17:38.911000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 0 dont 0 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:17:44.371000 ====
+
+==== lancement 2018-06-12 12:20:04.601000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 0 dont 0 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:20:09.870000 ====
+
+==== lancement 2018-06-12 12:20:34.287000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 0 dont 0 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - abs
+La reponse est : 2 - r as
+===== fermeture 2018-06-12 12:20:39.655000 ====
+
+==== lancement 2018-06-12 12:20:47.756000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 9 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:20:52.365000 ====
+
+==== lancement 2018-06-12 12:23:54.116000 ====
+
+==== lancement 2018-06-12 12:23:57.690000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 0 dont 0 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - abs
+La reponse est : 2 - r as
+===== fermeture 2018-06-12 12:24:03.020000 ====
+
+==== lancement 2018-06-12 12:26:33.996000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 17 dont 12 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:26:38.282000 ====
+
+==== lancement 2018-06-12 12:27:04.421000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 13 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 12:27:09.432000 ====
+
+==== lancement 2018-06-12 16:26:10.279000 ====
+
+==== lancement 2018-06-12 16:30:35.928000 ====
+
+==== lancement 2018-06-12 16:31:42.301000 ====
+===== debut screenshot 2018-06-12 16:31:42.304000 ====
+===== fin screenshot 2018-06-12 16:31:42.436000 ====
+===== debut traitment Q/R 2018-06-12 16:31:42.436000 ====
+Q :  
+R1: 
+R2: 
+R3: 
+===== fin traitment Q/R 2018-06-12 16:31:43.103000 ====
+Score pour R1 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R2 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R3 : 620 dont 620 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-12 16:31:44.948000 ====
+
+==== lancement 2018-06-12 16:31:49.859000 ====
+===== debut screenshot 2018-06-12 16:31:49.862000 ====
+===== fin screenshot 2018-06-12 16:31:50.002000 ====
+===== debut traitment Q/R 2018-06-12 16:31:50.002000 ====
+Q :  
+R1: 
+R2: 
+R3: 
+===== fin traitment Q/R 2018-06-12 16:31:50.413000 ====
+Score pour R1 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R2 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R3 : 620 dont 620 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-12 16:31:52.175000 ====
+
+==== lancement 2018-06-12 16:32:17.341000 ====
+===== debut screenshot 2018-06-12 16:32:17.344000 ====
+===== fin screenshot 2018-06-12 16:32:17.480000 ====
+===== debut traitment Q/R 2018-06-12 16:32:17.480000 ====
+Q :  
+R1: 
+R2: 
+R3: 
+===== fin traitment Q/R 2018-06-12 16:32:17.881000 ====
+Score pour R1 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R2 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R3 : 620 dont 620 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-12 16:32:19.757000 ====
+
+==== lancement 2018-06-12 16:33:04.089000 ====
+===== debut screenshot 2018-06-12 16:33:04.092000 ====
+===== fin screenshot 2018-06-12 16:33:04.230000 ====
+===== debut traitment Q/R 2018-06-12 16:33:04.230000 ====
+Q :  
+R1: 
+R2: 
+R3: 
+===== fin traitment Q/R 2018-06-12 16:33:04.640000 ====
+Score pour R1 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R2 : 620 dont 620 rep EXACTE(S) trouvee(s)
+Score pour R3 : 620 dont 620 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-12 16:33:06.426000 ====
+
+==== lancement 2018-06-12 16:34:42.142000 ====
+===== debut screenshot 2018-06-12 16:34:42.145000 ====
+===== fin screenshot 2018-06-12 16:34:42.275000 ====
+===== debut traitment Q/R 2018-06-12 16:34:42.275000 ====
+Q : 
+R1: 
+R2: 
+R3: 
+===== fin traitment Q/R 2018-06-12 16:34:42.784000 ====
+Score pour R1 : 251 dont 251 rep EXACTE(S) trouvee(s)
+Score pour R2 : 251 dont 251 rep EXACTE(S) trouvee(s)
+Score pour R3 : 251 dont 251 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - 
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-12 16:34:44.550000 ====
+
+==== lancement 2018-06-12 16:36:56.294000 ====
+===== debut screenshot 2018-06-12 16:36:56.297000 ====
+===== fin screenshot 2018-06-12 16:36:56.654000 ====
+===== debut traitment Q/R 2018-06-12 16:36:56.654000 ====
+Q : be fat 2 a he > it en lan 2 es see pa 4 | bet he l a a pe = . ' . ' ta . ge eel er a* bm et east le | ; a = ty eas or a a | u 5 7 ad "i 7 i$ io pi y te / fr so tqs . es a ee k ae ware ae "4 gi tour | a " a yo] | pre c2 a pahoa |
+R1: prey ot   rc na re  rat snl lit _   ps se rue ct pmr us re _  icha rp va oa rg a me bee friet psn ne nn rg sa ps coe  juss ah  se bs tatke ic et iran fe   a i rrr se a nn se sk ee an  bes
+R2: ae su en d laphune     messages gal t
+R3: nn   fm  
+===== fin traitment Q/R 2018-06-12 16:37:04.921000 ====
+Score pour R1 : 106
+Score pour R2 : 21
+Score pour R3 : 1
+La reponse est : 1 - prey ot   rc na re  rat snl lit _   ps se rue ct pmr us re _  icha rp va oa rg a me bee friet psn ne nn rg sa ps coe  juss ah  se bs tatke ic et iran fe   a i rrr se a nn se sk ee an  bes
+La reponse est : 2 - ae su en d laphune     messages gal t
+La reponse est : 3 - nn   fm  
+===== fermeture 2018-06-12 16:37:08.774000 ====
+
+==== lancement 2018-06-12 16:37:22.713000 ====
+===== debut screenshot 2018-06-12 16:37:22.717000 ====
+===== fin screenshot 2018-06-12 16:37:23.056000 ====
+===== debut traitment Q/R 2018-06-12 16:37:23.056000 ====
+Q : oo eee oe ee ee PS: d m pse ne ors  no... ne ant 1 + gt og a ol a) a ant > xe sa lr fe 7 ft age pa ls  pi se fi f a' ae se sy 4 hs  dz sup. a press ht de cone em = | ory 2 gory in ee =) 0
+R1: es  sono re eu te rl he sop ep po po ame rites pee ae oa bh can   ie  a ae res pt es est roue vey 3 fri be jas  ert 4 nae a des ay mai pure  ron tea 17  a er
+R2: alert orne   ee tat ae messages gal l
+R3: ee   m w   
+===== fin traitment Q/R 2018-06-12 16:37:31.889000 ====
+Score pour R1 : 79
+Score pour R2 : 24
+Score pour R3 : 17
+La reponse est : 1 - es  sono re eu te rl he sop ep po po ame rites pee ae oa bh can   ie  a ae res pt es est roue vey 3 fri be jas  ert 4 nae a des ay mai pure  ron tea 17  a er
+La reponse est : 2 - alert orne   ee tat ae messages gal l
+La reponse est : 3 - ee   m w   
+===== fermeture 2018-06-12 16:37:34.772000 ====
+
+==== lancement 2018-06-12 16:42:38.484000 ====
+===== debut screenshot 2018-06-12 16:42:38.487000 ====
+===== fin screenshot 2018-06-12 16:42:38.824000 ====
+===== debut traitment Q/R 2018-06-12 16:42:38.824000 ====
+Q : sure >> ey re va le + ee a a 7 = = es q mee . ae c a mme. ee i | | (eh k er y == s ct fe sce) er kore
+R1:  c   2   c   
+R2: 
+R3: 
+===== fin traitment Q/R 2018-06-12 16:42:42.310000 ====
+Score pour R1 : 3
+Score pour R2 : 5527 dont 5527 rep EXACTE(S) trouvee(s)
+Score pour R3 : 5527 dont 5527 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - 
+La reponse est : 3 - 
+===== fermeture 2018-06-12 16:42:45.921000 ====
+
+==== lancement 2018-06-12 16:59:17.611000 ====
+Q : Quel acronyme designe un systeme de freinage securise automobile 
+R1: abs
+R2: r as
+R3: s ur
+Score pour R1 : 21 dont 14 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - abs
+===== fermeture 2018-06-12 16:59:22.627000 ====
+
+==== lancement 2018-06-12 17:04:59.570000 ====
+Q : Quel est le nombre de touches blanches sur un piano 
+R1: 5 2
+R2: 5200
+R3: 52
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 16 dont 8 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 52
+===== fermeture 2018-06-12 17:05:04.345000 ====
+
+==== lancement 2018-06-12 17:06:14.592000 ====
+Q : Quel etait le nom de l'avant dernier acteur a
+R1: pierce brosnan
+R2: ryan gosling
+R3: bruce lee
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 17:06:19.769000 ====
+===== fermeture 2018-06-12 17:06:19.769000 ====
+
+==== lancement 2018-06-12 17:07:22.794000 ====
+Q : En quelle annee Yannick Noah a-t-il remporte Roland Garros 
+R1: 1996
+R2: 1983
+R3: la semaine derniere
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 48 dont 27 rep EXACTE(S) trouvee(s)
+Score pour R3 : 3
+La reponse est : 2 - 1983
+===== fermeture 2018-06-12 17:07:28.156000 ====
+
+==== lancement 2018-06-12 17:08:28.929000 ====
+Q : Lequel de ces artistes n'est pas decede en 2016 
+R1: prince
+R2: david bowie
+R3: elvis presley
+Score pour R1 : 5 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R2 : 8 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 3 - elvis presley
+===== fermeture 2018-06-12 17:08:33.698000 ====
+
+==== lancement 2018-06-12 17:09:33.628000 ====
+Q : Dans Breaking Bad, comment s'appelle le restaurant qui sert a blanchir de
+R1: los pollos hermanos
+R2: del taco
+R3: valentino s
+Score pour R1 : 1
+Score pour R2 : 1
+Score pour R3 : 0
+La reponse est : 1 - los pollos hermanos
+La reponse est : 2 - del taco
+La reponse est : 3 - valentino s
+===== fermeture 2018-06-12 17:09:39.124000 ====
+
+==== lancement 2018-06-12 17:10:52.833000 ====
+Q : Si vous voyez mieux de pres que de loin, vous etes 
+R1: astigmate
+R2: myope
+R3: bourre
+Score pour R1 : 11 dont 6 rep EXACTE(S) trouvee(s)
+Score pour R2 : 21 dont 11 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - myope
+===== fermeture 2018-06-12 17:10:57.516000 ====
+
+==== lancement 2018-06-12 17:12:01.332000 ====
+Q : Qui est a l'initiative du tweet francais le plus retweete de 2017 
+R1: emmanuel macron
+R2: michou
+R3: enjoy phoenix
+Score pour R1 : 6 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - emmanuel macron
+===== fermeture 2018-06-12 17:12:06.462000 ====
+
+==== lancement 2018-06-12 17:13:14.844000 ====
+Q : Qu'est-ce qu'un bitcain 
+R1: une monnaie virtuelle
+R2: un indice boursier
+R3: une assurance
+Score pour R1 : 9 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - une monnaie virtuelle
+===== fermeture 2018-06-12 17:13:19.663000 ====
+
+==== lancement 2018-06-12 17:52:42.824000 ====
+Q : Victor Frankenstein
+R1: sherlock holmes
+R2: raust
+R3: 
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 9575 dont 9575 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-12 17:52:49.750000 ====
+
+==== lancement 2018-06-12 18:01:46.868000 ====
+Q : 
+R1:   4 te do te ro ne ta ct   a ecc eco eek ee gee fot ork we ses teed sea soy fal a 0   d os te et pr pt ef et el vel lire 
+R2: 7
+R3: cpe cr ce a des bsp ts mere romeo et der de hr  es ere e rele ro el te teh oc ts eh   cee rce un sn 0e eee 0e ee ee se ee a de tr hy tel ar tae bu hk des cr we per et cl in 
+Score pour R1 : 3
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 -   4 te do te ro ne ta ct   a ecc eco eek ee gee fot ork we ses teed sea soy fal a 0   d os te et pr pt ef et el vel lire 
+La reponse est : 2 - 7
+La reponse est : 3 - cpe cr ce a des bsp ts mere romeo et der de hr  es ere e rele ro el te teh oc ts eh   cee rce un sn 0e eee 0e ee ee se ee a de tr hy tel ar tae bu hk des cr we per et cl in 
+===== fermeture 2018-06-12 18:01:59.457000 ====
+
+==== lancement 2018-06-12 18:04:33.074000 ====
+Q : Que signife le #TBT 
+R1: throwback thursday
+R2: take bieber tonight
+R3: two burgers thanks
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 18:04:38.633000 ====
+===== fermeture 2018-06-12 18:04:38.633000 ====
+
+==== lancement 2018-06-12 18:05:38.994000 ====
+Q : Laquelle de ces propositions est une mechante de Disney 9
+R1: nutella
+R2: ebola
+R3: cruella
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-12 18:05:43.681000 ====
+===== fermeture 2018-06-12 18:05:43.681000 ====
+
+==== lancement 2018-06-12 18:06:39.968000 ====
+Q : Qui est le saint patron des coiffeurs 
+R1: saint louis
+R2: jean louis david
+R3: saint algue
+Score pour R1 : 130 dont 15 rep EXACTE(S) trouvee(s)
+Score pour R2 : 56
+Score pour R3 : 67 dont 4 rep EXACTE(S) trouvee(s)
+La reponse est : 1 - saint louis
+===== fermeture 2018-06-12 18:06:44.656000 ====
+
+==== lancement 2018-06-12 18:07:37.665000 ====
+Q : Comment surnommait-on le couple Brad Pitt et Angelina Jolie 
+R1: les beaux gosses
+R2: the couple goal
+R3: les brangelina
+Score pour R1 : 18
+Score pour R2 : 23
+Score pour R3 : 34 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - les brangelina
+===== fermeture 2018-06-12 18:07:42.388000 ====
+
+==== lancement 2018-06-12 18:08:32.389000 ====
+Q : En France, combien de temps dure un mandat presidentiel 
+R1: sans
+R2: 8 ans
+R3: 10 ans
+Score pour R1 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 18
+Score pour R3 : 18
+La reponse est : 1 - sans
+La reponse est : 2 - 8 ans
+La reponse est : 3 - 10 ans
+===== fermeture 2018-06-12 18:08:38.357000 ====
+
+==== lancement 2018-06-12 18:09:32.596000 ====
+Q : Quel joueur de Rugby francais etait celebre pour sa barbe
+R1: chewbacca
+R2: chihuahua
+R3: chabal
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 57 dont 33 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - chabal
+===== fermeture 2018-06-12 18:09:39.667000 ====
+
+==== lancement 2018-06-12 18:10:39.831000 ====
+Q : Lequel de ces animaux ne possede qu'un seul estomac
+R1: la fourmi
+R2: la pieuvre
+R3: la vache
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - la vache
+===== fermeture 2018-06-12 18:10:45.051000 ====

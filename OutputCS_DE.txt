@@ -1,0 +1,283 @@
+
+==== lancement 2018-06-08 11:13:57.681000 ====
+Q : Qui a conclu un pacte avec Méphistophélés?
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 75 dont 46 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 11:14:04.311000 ====
+
+==== lancement 2018-06-08 11:47:13.633000 ====
+Q : Qui a conclu un pacte avec Méphistophélés?
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 75 dont 46 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 11:47:19.873000 ====
+
+==== lancement 2018-06-08 11:57:20.966000 ====
+Q : Qui a conclu un pacte avec Méphistophélés?
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 75 dont 46 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 11:57:27.203000 ====
+
+==== lancement 2018-06-08 12:02:31.200000 ====
+Q : Qui a conclu un pacte avec Méphistophélés?
+R1: victor frankenstein
+R2: sherlock holmes
+R3: faust
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 75 dont 46 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - faust
+===== fermeture 2018-06-08 12:02:37.349000 ====
+
+==== lancement 2018-06-08 12:03:26.971000 ====
+Q : Minus 2 multipliziert mit Minus 2 ergibt ...?
+R1: 0
+R2: minus 4
+R3: plus 4
+Score pour R1 : 46 dont 43 rep EXACTE(S) trouvee(s)
+Score pour R2 : 48 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 24
+La reponse est : 1 - 0
+La reponse est : 2 - minus 4
+===== fermeture 2018-06-08 12:03:33.598000 ====
+
+==== lancement 2018-06-08 12:04:15.596000 ====
+Q : Wie lautet ein anderes Wort für Porrée?
+R1: paprika
+R2: lauch
+R3: kartoffeln
+Score pour R1 : 0
+Score pour R2 : 108 dont 40 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - lauch
+===== fermeture 2018-06-08 12:04:22.066000 ====
+
+==== lancement 2018-06-08 12:05:00.077000 ====
+Q : Was entsteht bei der oxygenen Photosynthese?
+R1: kohlenstoffdioxid
+R2: sauerstoff
+R3: wasserstoff
+Score pour R1 : 6 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R2 : 23 dont 12 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 2 - sauerstoff
+===== fermeture 2018-06-08 12:05:06.784000 ====
+
+==== lancement 2018-06-08 12:06:16.028000 ====
+Q : Die „Einkaufsgenossenschaft der Kolonialwarenhändler” heißt heute...?
+R1: lidl
+R2: aldi
+R3: edeka
+Score pour R1 : 10 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R2 : 16 dont 11 rep EXACTE(S) trouvee(s)
+Score pour R3 : 77 dont 50 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - edeka
+===== fermeture 2018-06-08 12:06:22.767000 ====
+
+==== lancement 2018-06-08 12:07:09.792000 ====
+Q : Was ist eine Fata Morgana?
+R1: wüstenrose
+R2: dase
+R3: luftspiegelung
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 3 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - luftspiegelung
+===== fermeture 2018-06-08 12:07:17.112000 ====
+
+==== lancement 2018-06-08 12:07:53.100000 ====
+Q : Wen spielt Harald Schmidt in der Serie „Das Traumschiff”?
+R1: kapitän
+R2: kreuzfahrtdirektor
+R3: schiffsarzt
+Score pour R1 : 0
+Score pour R2 : 12 dont 6 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 2 - kreuzfahrtdirektor
+===== fermeture 2018-06-08 12:08:00.284000 ====
+
+==== lancement 2018-06-08 12:08:38.552000 ====
+Q : Wer erhielt 2018 den Pulitzer—Preis für Belletristik?
+R1: colson whitehead
+R2: jennifer egan
+R3: en andrew sean greer
+Score pour R1 : 26 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 31
+La reponse est : 1 - colson whitehead
+La reponse est : 3 - en andrew sean greer
+===== fermeture 2018-06-08 12:08:46.356000 ====
+
+==== lancement 2018-06-08 12:09:28.126000 ====
+Q : Wer war nie König von Italien?
+R1: viktor emanuel ii.
+R2: franz i.
+R3: napoleon bonaparte
+Score pour R1 : 5
+Score pour R2 : 0
+Score pour R3 : 1
+La reponse est : 1 - viktor emanuel ii.
+La reponse est : 2 - franz i.
+La reponse est : 3 - napoleon bonaparte
+===== fermeture 2018-06-08 12:09:35.193000 ====
+
+==== lancement 2018-06-08 12:10:14.921000 ====
+Q : In welcher Gruppe des Periodensysterns findet man das Roentgenium?
+R1: 11
+R2: 12
+R3: nn . keiner
+question lequelScore pour R1 : 35 dont 19 rep EXACTE(S) trouvee(s)
+Score pour R2 : 17 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R3 : 3
+La reponse est : 1 - 11
+===== fermeture 2018-06-08 12:10:24.484000 ====
+
+==== lancement 2018-06-08 12:11:05.474000 ====
+Q : Wie heißt der amtierende Außenmi
+R1: kishida fumio
+R2: kono taro
+R3: gemba koichiro
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-08 12:11:12.465000 ====
+===== fermeture 2018-06-08 12:11:12.465000 ====
+
+==== lancement 2018-06-08 12:12:02.087000 ====
+Q : Welche Bezeichnung beschreibt kein Tie
+R1: perlboot
+R2: papierboot
+R3: panboot
+question lequelScore pour R1 : 27 dont 16 rep EXACTE(S) trouvee(s)
+Score pour R2 : 14 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R3 : 8 dont 4 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'kein' - A CONFIRMERLa reponse est : 3 - panboot
+===== fermeture 2018-06-08 12:12:16.466000 ====
+
+==== lancement 2018-06-08 20:56:07.748000 ====
+Q : I ” I D 4 |
+R1: — 2 ge
+R2: connecté
+R3: 
+Score pour R1 : 3
+Score pour R2 : 0
+Score pour R3 : 6813 dont 6813 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-08 20:56:14.521000 ====
+
+==== lancement 2018-06-08 21:02:02.024000 ====
+Q : isst man eine Katzenzunge, so hat man was im Mund?
+R1: schokolade
+R2: wurst
+R3: pflanze
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-08 21:02:09.376000 ====
+===== fermeture 2018-06-08 21:02:09.376000 ====
+
+==== lancement 2018-06-08 21:02:48.671000 ====
+Q : Ein Knall i
+R1: besonders laut
+R2: nicht zu hören
+R3: leise härbar
+Score pour R1 : 3
+Score pour R2 : 0
+Score pour R3 : 0
+La reponse est : 1 - besonders laut
+La reponse est : 2 - nicht zu hören
+La reponse est : 3 - leise härbar
+===== fermeture 2018-06-08 21:02:55.098000 ====
+
+==== lancement 2018-06-10 21:00:26.813000 ====
+Q : |2 < u vs — n ”
+R1: & 4'i \ * *4 £ ihs
+R2: .. .. ki _' : ” '. c .. .! " '. b w 8 l na m a m m *, a ” *
+R3: 
+Score pour R1 : 0
+Score pour R2 : 6
+Score pour R3 : 7402 dont 7402 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 
+===== fermeture 2018-06-10 21:00:34.629000 ====
+
+==== lancement 2018-06-10 21:02:22.063000 ====
+Q : In welchem Jahr wurde Jesus geboren?
+R1: 10
+R2: q
+R3: 0
+Score pour R1 : 7 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R2 : 3 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R3 : 33 dont 32 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - 0
+===== fermeture 2018-06-10 21:02:28.402000 ====
+
+==== lancement 2018-06-10 21:05:30.287000 ====
+Q : Wie wirkt Zitrone in unserem Körper?
+R1: basisch
+R2: sauer
+R3: keimproduzierend
+Score pour R1 : 36 dont 20 rep EXACTE(S) trouvee(s)
+Score pour R2 : 15 dont 8 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+La reponse est : 1 - basisch
+===== fermeture 2018-06-10 21:05:36.518000 ====
+
+==== lancement 2018-06-10 21:06:45.399000 ====
+Q : Ein menschliches ausgewachsenes Skelett hat wie viele Knochen?
+R1: ca. 106
+R2: ca. 206
+R3: ca. 306
+Score pour R1 : 0
+Score pour R2 : 5
+Score pour R3 : 0
+La reponse est : 1 - ca. 106
+La reponse est : 2 - ca. 206
+La reponse est : 3 - ca. 306
+===== fermeture 2018-06-10 21:06:52.112000 ====
+
+==== lancement 2018-06-10 21:08:50.362000 ====
+Q : Was ist ein Haarstern? =0e n 2 e 2 2 4 AA
+R1: meerestier
+R2: frisörbedarf
+R3: pilz
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-10 21:08:56.886000 ====
+===== fermeture 2018-06-10 21:08:56.886000 ====
+
+==== lancement 2018-06-10 21:09:47.629000 ====
+Q : Welcher Song ist nicht von Beatrice Egli?
+R1: feuer und flamme
+R2: bis hierher und viel weiter
+R3: nah am feuer
+Score pour R1 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1
+NEGATION DETECTEE AVEC 'nicht' - A CONFIRMERLa reponse est : 3 - nah am feuer
+===== fermeture 2018-06-10 21:09:54.904000 ====
+
+==== lancement 2018-06-10 21:10:27.542000 ====
+Q : Was ist ein Gigue? =1 n 2 e 2 AAA 4
+R1: tanz
+R2: werkzeug
+R3: schreibstil
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-10 21:10:34.790000 ====
+===== fermeture 2018-06-10 21:10:34.790000 ====

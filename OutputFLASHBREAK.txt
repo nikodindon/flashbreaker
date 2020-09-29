@@ -1,0 +1,690 @@
+
+==== lancement 2018-06-10 18:57:20.164000 ====
+Q : Qui a conclu un pacte avec Mephistopheles
+R1: ares    pm  _f     
+R2: a
+R3: sherlock holm
+R4: oo 
+Score pour R1 : 0
+Score pour R2 : 614 dont 600 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 2 - a
+===== fermeture 2018-06-10 18:57:25.934000 ====
+
+==== lancement 2018-06-10 19:05:29.712000 ====
+Q : 1. Selon le proverbe, qui sont les plus mal chausses 
+R1: les bicherons
+R2: les cuisiniers
+R3: les ours
+R4: les cordonniers
+Score pour R1 : 77
+Score pour R2 : 77
+Score pour R3 : 77
+Score pour R4 : 143 dont 30 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - les cordonniers
+===== fermeture 2018-06-10 19:05:35.236000 ====
+
+==== lancement 2018-06-10 19:06:14.648000 ====
+Q : 2. Que signifie le "S" de l'acronyme SAMU 
+R1: sauvetage
+R2: societe
+R3: service
+R4: survie
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 27 dont 16 rep EXACTE(S) trouvee(s)
+Score pour R4 : 0
+La reponse est : 3 - service
+===== fermeture 2018-06-10 19:06:19.847000 ====
+
+==== lancement 2018-06-10 19:07:02.278000 ====
+Q : 2. COMME Sappene te programme d'echange  d'etudiants entre les universites IT)
+R1: emmaus
+R2: erasmus
+R3: habitus
+R4: beerpongus
+Score pour R1 : 0
+Score pour R2 : 8 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 2 - erasmus
+===== fermeture 2018-06-10 19:07:08.548000 ====
+
+==== lancement 2018-06-10 19:07:57.606000 ====
+Q : + DANS QUELCNANMpIONTIaENOorQ-- americain s'illustrent les Raptors de Toronto et les Celtics de  Rhetnn 9
+R1: nba
+R2: mls
+R3: nhl
+R4: mlb
+Score pour R1 : 2 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - nba
+===== fermeture 2018-06-10 19:08:04.166000 ====
+
+==== lancement 2018-06-10 19:08:52.171000 ====
+Q : 5. A quel pays les Iles Galapagos appartiennent-elles 
+R1: perou
+R2: mexique
+R3: equateur
+R4: chili
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 5 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R4 : 2 dont 1 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - equateur
+===== fermeture 2018-06-10 19:08:57.756000 ====
+
+==== lancement 2018-06-10 19:09:43.891000 ====
+Q : 6. Comment se somme. de signe de ponctuation "S" 
+R1: point de vigilance
+R2: point d affirmation
+R3: point d ironie
+R4: point de suture
+Score pour R1 : 13
+Score pour R2 : 12
+Score pour R3 : 12
+Score pour R4 : 12
+La reponse est : 1 - point de vigilance
+La reponse est : 2 - point d affirmation
+La reponse est : 3 - point d ironie
+La reponse est : 4 - point de suture
+===== fermeture 2018-06-10 19:09:49.632000 ====
+
+==== lancement 2018-06-10 19:10:35.965000 ====
+Q : 7. Quel est l'aliment qui constitue les boules qui se trouvent dans le bubble tea 
+R1: sesame
+R2: tapioca
+R3: chia
+R4: noix de coco
+Score pour R1 : 0
+Score pour R2 : 14 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 2 - tapioca
+===== fermeture 2018-06-10 19:10:42.249000 ====
+
+==== lancement 2018-06-10 19:11:27.112000 ====
+Q : 8. Dans la serie de films "Scream', le masque du tueur est inspire d'un tableau de...
+R1: pablo picasso
+R2: salvador dali
+R3: vincent van gogh
+R4: edvard munch
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 11 dont 3 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - edvard munch
+===== fermeture 2018-06-10 19:11:33.466000 ====
+
+==== lancement 2018-06-10 19:12:22.812000 ====
+Q : 9. Comment s'appelait l'atelier d'artiste ouvert a New-York par Andy Warhol en 1964 
+R1: factory
+R2: workshop
+R3: sawmill
+R4: art office
+Score pour R1 : 12 dont 7 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 24
+La reponse est : 1 - factory
+La reponse est : 4 - art office
+===== fermeture 2018-06-10 19:12:28.556000 ====
+
+==== lancement 2018-06-10 19:13:15.306000 ====
+Q : 10. Laquelle de ces propositions n'est PAS un systeme de geolocalisation par satellite
+R1: 
+R2: quantum
+R3: glonass
+R4: beidou
+Score pour R1 : 11703 dont 11703 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R4 : 0
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 2 - quantum
+La reponse est : 4 - beidou
+===== fermeture 2018-06-10 19:13:20.658000 ====
+
+==== lancement 2018-06-10 19:14:11.483000 ====
+Q : 11. Lequel de ces solides a le plus de faces 
+R1: icosidodecaedre
+R2: cuboctaedre
+R3: cube adouci
+R4: icosaedre tronque
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 7
+Score pour R4 : 0
+La reponse est : 1 - icosidodecaedre
+La reponse est : 2 - cuboctaedre
+La reponse est : 3 - cube adouci
+La reponse est : 4 - icosaedre tronque
+===== fermeture 2018-06-10 19:14:17.165000 ====
+
+==== lancement 2018-06-10 19:21:53.338000 ====
+Q : Lorsqu'on coupe en Brunoise,
+R1: 
+R2: 
+R3: de fines lamelle
+R4: 241      
+Score pour R1 : 7508 dont 7508 rep EXACTE(S) trouvee(s)
+Score pour R2 : 7508 dont 7508 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - 
+La reponse est : 2 - 
+===== fermeture 2018-06-10 19:21:57.898000 ====
+
+==== lancement 2018-06-10 20:00:46.363000 ====
+Q : Lorsqu'on coupe en Brunoise,
+R1: 
+R2: 
+R3: de fines lamelle
+R4: 241      
+Score pour R1 : 7575 dont 7575 rep EXACTE(S) trouvee(s)
+Score pour R2 : 7575 dont 7575 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - 
+La reponse est : 2 - 
+===== fermeture 2018-06-10 20:00:51.265000 ====
+
+==== lancement 2018-06-10 20:08:20.796000 ====
+Q : 1. Parmi ces barbecues, lequel nexiste pas 
+R1: agaz
+R2: au charbon
+R3: a l eau
+R4: electrique
+Score pour R1 : 0
+Score pour R2 : 3
+Score pour R3 : 0
+Score pour R4 : 1 dont 1 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - agaz
+La reponse est : 2 - au charbon
+La reponse est : 3 - a l eau
+===== fermeture 2018-06-10 20:08:26.325000 ====
+
+==== lancement 2018-06-10 20:09:25.265000 ====
+Q : 2: Completez les paroles de cette comptine pour enfants, << II pleut, il mouille. C'est la fete a >...
+R1: la grenouille
+R2: la nouille
+R3: l andouille
+R4: l embrouille
+Score pour R1 : 9 dont 3 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - la grenouille
+===== fermeture 2018-06-10 20:09:32.212000 ====
+
+==== lancement 2018-06-10 20:10:13.536000 ====
+Q : 3. Comment dit-on << dimanche >> en anglais 
+R1: funday
+R2: monday
+R3: rassrahday
+R4: sunday
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 4 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - sunday
+===== fermeture 2018-06-10 20:10:18.924000 ====
+
+==== lancement 2018-06-10 20:11:06.292000 ====
+Q : 4: Quila remporte hier la finale Dame de Roland Garros 2018 7
+R1: serena williams
+R2: simona halep
+R3: sloane stephens
+R4: maria sharapova
+Score pour R1 : 9 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 41 dont 12 rep EXACTE(S) trouvee(s)
+Score pour R3 : 5 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R4 : 6
+La reponse est : 2 - simona halep
+===== fermeture 2018-06-10 20:11:12.744000 ====
+
+==== lancement 2018-06-10 20:11:54.589000 ====
+Q : 5. Parmi ces hommes politiques, lequel n'a.pas ete President della Republique 
+R1: jacques chirac
+R2: andre malraux
+R3: charles de gaulle
+R4: georges pompidou
+Score pour R1 : 4
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - jacques chirac
+La reponse est : 2 - andre malraux
+La reponse est : 3 - charles de gaulle
+La reponse est : 4 - georges pompidou
+===== fermeture 2018-06-10 20:12:00.806000 ====
+
+==== lancement 2018-06-10 20:12:46.687000 ====
+Q : 6: Qui a presente l'emission sur D8 << Les Rois du Barbecue >> 
+R1: benjamin castaldi
+R2: joey starr
+R3: cyril lignac
+R4: julien courbet
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 15 dont 4 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - julien courbet
+===== fermeture 2018-06-10 20:12:52.843000 ====
+
+==== lancement 2018-06-10 20:13:50.925000 ====
+Q : 7. Qui portera le numero 10 de l'equipe de France pendant la Coupe du Monde en Russie 
+R1: antoine griezmann
+R2: kylian mbappe
+R3: ousmane dembele
+R4: olivier giroud
+Score pour R1 : 9 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 6
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - antoine griezmann
+===== fermeture 2018-06-10 20:13:57.122000 ====
+
+==== lancement 2018-06-10 20:14:46.648000 ====
+Q : 8: A qui doit-on la phrase << Lire c'est refuser de mourir >> 
+R1: guy de maupassant
+R2: gustave flaubert
+R3: booba
+R4: victor hugo
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+Il n'y a aucune réponse trouvée. Problème de lecture Q/R ? 2018-06-10 20:14:52.594000 ====
+===== fermeture 2018-06-10 20:14:52.594000 ====
+
+==== lancement 2018-06-10 20:16:03.617000 ====
+Q : 9: Qui a creele slogan << Quand c'est trop cest Tropico ! >> 
+R1: thierry ardisson
+R2: christine bravo
+R3: frederic beigbeder
+R4: michel denisot
+Score pour R1 : 1
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 1
+La reponse est : 1 - thierry ardisson
+La reponse est : 2 - christine bravo
+La reponse est : 3 - frederic beigbeder
+La reponse est : 4 - michel denisot
+===== fermeture 2018-06-10 20:16:09.693000 ====
+
+==== lancement 2018-06-10 20:17:09.401000 ====
+Q : 10. Quelle est la dotation du Prix Goncourt 
+R1: un bouquet de fleurs
+R2: un cheque de 10 euros
+R3: un diner au fouquet s
+R4: un dictionnaire
+Score pour R1 : 0
+Score pour R2 : 46
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - un bouquet de fleurs
+La reponse est : 2 - un cheque de 10 euros
+La reponse est : 3 - un diner au fouquet s
+La reponse est : 4 - un dictionnaire
+===== fermeture 2018-06-10 20:17:15.261000 ====
+
+==== lancement 2018-06-10 20:18:05.510000 ====
+Q : 11. Parmi ces acteurs, lequel n/a pas joue dans le film << Barbecue >> sorti em 2014 
+R1: florence foresti
+R2: jerome commandeur
+R3: baptiste lecaplain
+R4: franck dubosc
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 4 dont 1 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - florence foresti
+La reponse est : 2 - jerome commandeur
+La reponse est : 3 - baptiste lecaplain
+===== fermeture 2018-06-10 20:18:11.995000 ====
+
+==== lancement 2018-06-11 19:04:50.759000 ====
+Q : 
+R1: f
+R2: an
+R3: 
+R4: 506
+Score pour R1 : 2 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 251 dont 251 rep EXACTE(S) trouvee(s)
+Score pour R4 : 0
+La reponse est : 3 - 
+===== fermeture 2018-06-11 19:04:54.787000 ====
+
+==== lancement 2018-06-11 19:08:07.785000 ====
+Q : 1. Laquelle de ces propositions est Une arme a feu 
+R1: are
+R2: arbalete
+R3: lance
+R4: magnum 357
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 12
+Score pour R4 : 0
+La reponse est : 1 - are
+La reponse est : 2 - arbalete
+La reponse est : 3 - lance
+La reponse est : 4 - magnum 357
+===== fermeture 2018-06-11 19:08:13.575000 ====
+
+==== lancement 2018-06-11 19:08:56.056000 ====
+Q : 2. Comment s'appelle le debut de l'automne au Canada
+R1: le printemps arabe
+R2: l ete indien
+R3: la saison des pluies
+R4: l hiver nucleaire
+Score pour R1 : 5
+Score pour R2 : 10
+Score pour R3 : 8
+Score pour R4 : 1
+La reponse est : 1 - le printemps arabe
+La reponse est : 2 - l ete indien
+La reponse est : 3 - la saison des pluies
+La reponse est : 4 - l hiver nucleaire
+===== fermeture 2018-06-11 19:09:02.507000 ====
+
+==== lancement 2018-06-11 19:09:59.939000 ====
+Q : 3. Quelestlenomdelachouette de Harry Potter 
+R1: hermione
+R2: coquecigrue
+R3: hedwige
+R4: 
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 2685 dont 2685 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - 
+===== fermeture 2018-06-11 19:10:05.835000 ====
+
+==== lancement 2018-06-11 19:10:46.693000 ====
+Q : 4. A l'origine qu'affichait le pan= neau "Hollywood" gui surplombe Los Angeles 
+R1: hollywoodland
+R2: hollywoadworld
+R3: hollywood  ground
+R4: hollywood
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 13
+Score pour R4 : 28 dont 15 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - hollywood
+===== fermeture 2018-06-11 19:10:53.385000 ====
+
+==== lancement 2018-06-11 19:11:36.316000 ====
+Q : 5. Comment se somme le monde dans lequel World of Warcraft se deroule 
+R1: azeroth
+R2: koprulu
+R3: discworld
+R4: tamriel
+Score pour R1 : 6 dont 4 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - azeroth
+===== fermeture 2018-06-11 19:11:42.435000 ====
+
+==== lancement 2018-06-11 19:12:37.550000 ====
+Q : 6. De quel organe le fruit de lavocatier tire-t-il son nom 
+R1: coeur
+R2: rate
+R3: foie
+R4: testicule
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 6 dont 3 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - testicule
+===== fermeture 2018-06-11 19:12:43.603000 ====
+
+==== lancement 2018-06-11 19:13:37.815000 ====
+Q : 7. Qui est l'actuel secretaire general des Nations unies 
+R1: donald trump
+R2: ban ki moon
+R3: antonio guterres
+R4: kofi annan
+Score pour R1 : 0
+Score pour R2 : 25 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 37 dont 10 rep EXACTE(S) trouvee(s)
+Score pour R4 : 6 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - antonio guterres
+===== fermeture 2018-06-11 19:13:43.630000 ====
+
+==== lancement 2018-06-11 19:14:38.695000 ====
+Q : 8. Laquelle de ceswilles n'a pas change de nom durant le XXeme siecle 
+R1: ho chi minh  ville
+R2: saint  petersbourg
+R3: mumbai
+R4: buenos aires
+Score pour R1 : 1
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - ho chi minh  ville
+La reponse est : 2 - saint  petersbourg
+La reponse est : 3 - mumbai
+La reponse est : 4 - buenos aires
+===== fermeture 2018-06-11 19:14:45.255000 ====
+
+==== lancement 2018-06-11 19:15:38.041000 ====
+Q : 9. Lequel de ces bateaux n'as pas caule 
+R1: la meduse
+R2: costa concordia
+R3: potemkine
+R4: erika
+Score pour R1 : 0
+Score pour R2 : 1
+Score pour R3 : 0
+Score pour R4 : 0
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - la meduse
+La reponse est : 2 - costa concordia
+La reponse est : 3 - potemkine
+La reponse est : 4 - erika
+===== fermeture 2018-06-11 19:15:43.768000 ====
+
+==== lancement 2018-06-11 19:16:29.949000 ====
+Q : 10. Quel pays est le plus gros producteur mondial de ble 
+R1: chine
+R2: inde
+R3: russie
+R4: usa
+Score pour R1 : 12 dont 6 rep EXACTE(S) trouvee(s)
+Score pour R2 : 2 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R3 : 11 dont 6 rep EXACTE(S) trouvee(s)
+Score pour R4 : 0
+La reponse est : 1 - chine
+La reponse est : 3 - russie
+===== fermeture 2018-06-11 19:16:35.785000 ====
+
+==== lancement 2018-06-11 19:17:32.340000 ====
+Q : 11. Au golf, laquelle de ces propo- sitions consiste a reussir en 1 seul coup un trou prevu en 5 coups 
+R1: birdie
+R2: eagle
+R3: albatros
+R4: condor
+Score pour R1 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 2 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R4 : 8 dont 5 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - condor
+===== fermeture 2018-06-11 19:17:39.264000 ====
+
+==== lancement 2018-06-12 18:59:48.121000 ====
+Q : En
+R1: y
+R2: 7 
+R3: ud
+R4: 1
+Score pour R1 : 24 dont 24 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 2 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R4 : 31 dont 27 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - 1
+===== fermeture 2018-06-12 18:59:53.181000 ====
+
+==== lancement 2018-06-12 19:03:55.092000 ====
+Q : 1. Quel est l'ingredient principal de la fondue Savoyarde
+R1: fromage
+R2: sucre
+R3: pomme de terre
+R4: riz
+Score pour R1 : 102 dont 54 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - fromage
+===== fermeture 2018-06-12 19:04:00.820000 ====
+
+==== lancement 2018-06-12 19:04:57.656000 ====
+Q : 2. Comment s'appelle la salle dans laquelle on pratique les arts martiaux 
+R1: tatami
+R2: kimono
+R3: ippon
+R4: dojo
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 18 dont 11 rep EXACTE(S) trouvee(s)
+La reponse est : 4 - dojo
+===== fermeture 2018-06-12 19:05:03.649000 ====
+
+==== lancement 2018-06-12 19:05:37.441000 ====
+Q : 5. Quel animal un raniculteur eleve-t-il 
+R1: des grenouilles
+R2: des escargots
+R3: des grillons
+R4: des abeilles
+Score pour R1 : 3
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+La reponse est : 1 - des grenouilles
+La reponse est : 2 - des escargots
+La reponse est : 3 - des grillons
+La reponse est : 4 - des abeilles
+===== fermeture 2018-06-12 19:05:43.738000 ====
+
+==== lancement 2018-06-12 19:06:28.026000 ====
+Q : 4. Quelle strategie le site "The Pirate Bay" envisageait-il pour echapper a certaines lois 
+R1: acheter une ile
+R2: acheter un satellite
+R3: aller sur la lune
+R4: louerun petrolier
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 18
+Score pour R4 : 0
+La reponse est : 1 - acheter une ile
+La reponse est : 2 - acheter un satellite
+La reponse est : 3 - aller sur la lune
+La reponse est : 4 - louerun petrolier
+===== fermeture 2018-06-12 19:06:35.280000 ====
+
+==== lancement 2018-06-12 19:07:27.444000 ====
+Q : 5. Que tweet le compte Twitter "@big_ben_clock" a chaque heure 
+R1: 
+R2: la meteo anglaise
+R3: les ragots sur la couronne
+R4: l etat de sante de la reine
+Score pour R1 : 6450 dont 6450 rep EXACTE(S) trouvee(s)
+Score pour R2 : 1
+Score pour R3 : 22
+Score pour R4 : 0
+La reponse est : 1 - 
+===== fermeture 2018-06-12 19:07:33.619000 ====
+
+==== lancement 2018-06-12 19:08:25.845000 ====
+Q : 6. Laquelle de ces propositions n'est pas un ordre architectural de la Grece antique 
+R1: dorique
+R2: lonique
+R3: athenien
+R4: corinthien
+Score pour R1 : 10 dont 5 rep EXACTE(S) trouvee(s)
+Score pour R2 : 5
+Score pour R3 : 0
+Score pour R4 : 6 dont 3 rep EXACTE(S) trouvee(s)
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 2 - lonique
+La reponse est : 3 - athenien
+===== fermeture 2018-06-12 19:08:32.197000 ====
+
+==== lancement 2018-06-12 19:09:18.887000 ====
+Q : 7. Quel animal est au centre du roman "Moby Dick" 
+R1: un requin
+R2: un arque
+R3: une baleine
+R4: un cachalot
+Score pour R1 : 0
+Score pour R2 : 0
+Score pour R3 : 11 dont 2 rep EXACTE(S) trouvee(s)
+Score pour R4 : 9 dont 2 rep EXACTE(S) trouvee(s)
+La reponse est : 3 - une baleine
+La reponse est : 4 - un cachalot
+===== fermeture 2018-06-12 19:09:24.731000 ====
+
+==== lancement 2018-06-12 19:10:19.590000 ====
+Q : 8. Quel est le seul mammifere terrestre qui ne baille jamais 7
+R1: lhippopatame
+R2: la girafe
+R3: l ours polaire
+R4: le kangourou
+Score pour R1 : 0
+Score pour R2 : 50 dont 19 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 0
+NEGATION DETECTEE AVEC 'jamais' - A CONFIRMERLa reponse est : 1 - lhippopatame
+La reponse est : 3 - l ours polaire
+La reponse est : 4 - le kangourou
+===== fermeture 2018-06-12 19:10:26.520000 ====
+
+==== lancement 2018-06-12 19:11:04.472000 ====
+Q : Laquelle de ces actrices n'est pas au generique d'Oceanis Eight
+R1: sandra bullock
+R2: cate blanchett
+R3: natalie portman
+R4: anne athaway
+Score pour R1 : 0
+Score pour R2 : 3 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R3 : 0
+Score pour R4 : 1
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 1 - sandra bullock
+La reponse est : 3 - natalie portman
+La reponse est : 4 - anne athaway
+===== fermeture 2018-06-12 19:11:10.815000 ====
+
+==== lancement 2018-06-12 19:12:51.207000 ====
+Q : 10. Laquelle de ces propositions est une unite informelle de radioactivite 2
+R1: dose equivalente en banane
+R2: dose equivalente ensurimi
+R3: dose equivalente en champignon
+R4: dose equivalente en plomb
+Score pour R1 : 1
+Score pour R2 : 1
+Score pour R3 : 1
+Score pour R4 : 1
+La reponse est : 1 - dose equivalente en banane
+La reponse est : 2 - dose equivalente ensurimi
+La reponse est : 3 - dose equivalente en champignon
+La reponse est : 4 - dose equivalente en plomb
+===== fermeture 2018-06-12 19:12:58.107000 ====
+
+==== lancement 2018-06-12 19:13:44.703000 ====
+Q : 11. Dans lequel de ces pays ne trouve-t-on pas de commune appelee Paris
+R1: usa
+R2: canada
+R3: bresil
+R4: danemark
+Score pour R1 : 1 dont 1 rep EXACTE(S) trouvee(s)
+Score pour R2 : 0
+Score pour R3 : 0
+Score pour R4 : 0
+NEGATION DETECTEE AVEC 'pas' - A CONFIRMERLa reponse est : 2 - canada
+La reponse est : 3 - bresil
+La reponse est : 4 - danemark
+===== fermeture 2018-06-12 19:13:51.893000 ====
